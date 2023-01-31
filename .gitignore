@@ -1,0 +1,56 @@
+Backups
+*.bak
+*.xbkp
+xLights/Wizlights/Backup/*
+*/Backup/*
+*.zip
+*.exe
+*/Downloads/*
+
+# Audio Files
+# Audio
+*/Audio/*
+*/Music/*
+xLights/Wizlights/Audio/*
+Light-O-Rama/Wizlights/Audio/*
+*.mp3
+*.wav
+*.m3u
+*.pls
+*.m4a
+*.flac
+*.cue
+*.ape
+*.loredit
+*.flac
+*.mp4
+*/Audio/*
+*/Music/*
+
+# Compiled Sequences
+*.lcs
+*.fseq
+
+# xLights Folders
+xLights/Wizlights/Downloads/*
+xLights/Wizlights/Imports/*
+xLights/Wizlights/RenderCache/*
+xLights/Wizlights/PreviewVids/*
+xLights/Wizlights/Videos/*
+xLights/Wizlights/Fseq/*
+*/WizTest/*
+
+# Windows Desktop
+desktop.ini
+*/desktop.ini
+*/Thumbs.db
+*.lnk
+*/*.lnk
+
+*/Utils/*
+Light-O-Rama/Wizlights/Superstar/*
+xLights/Wizlights/Sequences/Test/*
+Light-O-Rama/Wizlights/Sequences_Mine_Old/*
+Light-O-Rama/Wizlights/SequencesFromOtherPeople_Good/*
+Light-O-Rama/Wizlights/ImportExport/*
+Light-O-Rama/Wizlights/LORInternal/*

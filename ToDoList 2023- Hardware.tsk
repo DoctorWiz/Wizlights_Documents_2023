@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?taskcoach release="1.4.6" tskversion="37"?>
+
+<tasks>
+<task actualstartdate="2023-01-06 21:37:53.237619" creationDateTime="2023-01-06 08:31:54.911966" expandedContexts="('taskviewer',)" id="7c703068-8dc6-11ed-b06e-df4ea15a7f8e" modificationDateTime="2023-01-06 21:42:41.951210" status="1" subject="Pixel Props">
+<task actualstartdate="2023-01-06 21:38:00.250450" creationDateTime="2023-01-06 16:39:06.092939" id="8b946de0-8e0a-11ed-b06e-df4ea15a7f8e" modificationDateTime="2023-01-06 21:38:00.250287" ordering="4" status="1" subject="Mega-Triangle" />
+<task actualstartdate="2023-01-06 21:38:08.755211" creationDateTime="2023-01-06 08:32:26.480733" id="8f4130ca-8dc6-11ed-b06e-df4ea15a7f8e" modificationDateTime="2023-01-06 21:38:08.755047" ordering="-4" prerequisites="c1f35aca-8dc6-11ed-b06e-df4ea15a7f8e d8fc422e-8e0a-11ed-b06e-df4ea15a7f8e" status="1" subject="Star of Bethlehem" />
+<task actualstartdate="2023-01-06 21:37:55.032642" creationDateTime="2023-01-06 16:39:17.801980" id="928f15f0-8e0a-11ed-b06e-df4ea15a7f8e" modificationDateTime="2023-01-06 21:37:55.032482" ordering="1" prerequisites="8f4130ca-8dc6-11ed-b06e-df4ea15a7f8e" status="1" subject="Large text matrix" />
+<task actualstartdate="2023-01-06 21:38:11.087962" creationDateTime="2023-01-06 08:32:41.021514" id="97ebefda-8dc6-11ed-b06e-df4ea15a7f8e" modificationDateTime="2023-01-06 21:38:11.087779" ordering="-3" prerequisites="8f4130ca-8dc6-11ed-b06e-df4ea15a7f8e a11e6664-8dc6-11ed-b06e-df4ea15a7f8e" status="1" subject="Star of David" />
+<task actualstartdate="2023-01-06 21:38:06.183291" creationDateTime="2023-01-06 16:39:30.822738" id="9a51e628-8e0a-11ed-b06e-df4ea15a7f8e" modificationDateTime="2023-01-06 21:38:06.183128" ordering="2" prerequisites="b0628c10-8e0a-11ed-b06e-df4ea15a7f8e" status="1" subject="Small text matrix, donations" />
+<task actualstartdate="2023-01-06 21:37:46.627544" creationDateTime="2023-01-06 08:32:48.463951" id="9c5b90e8-8dc6-11ed-b06e-df4ea15a7f8e" modificationDateTime="2023-01-06 21:37:46.627336" ordering="-5" prerequisites="c1f35aca-8dc6-11ed-b06e-df4ea15a7f8e" status="1" subject="Mint Spinners" />
+<task actualstartdate="2023-01-06 21:37:56.709733" creationDateTime="2023-01-06 08:32:56.451701" expandedContexts="('taskviewer',)" id="a11e6664-8dc6-11ed-b06e-df4ea15a7f8e" modificationDateTime="2023-01-06 21:37:56.709568" ordering="-7" prerequisites="97ebefda-8dc6-11ed-b06e-df4ea15a7f8e c1f35aca-8dc6-11ed-b06e-df4ea15a7f8e" status="1" subject="Major Award" />
+<task actualstartdate="2023-01-06 21:38:13.667267" creationDateTime="2023-01-06 16:39:45.762121" expandedContexts="('taskviewer',)" id="a339767a-8e0a-11ed-b06e-df4ea15a7f8e" modificationDateTime="2023-01-06 21:38:13.667113" ordering="-2" prerequisites="b0628c10-8e0a-11ed-b06e-df4ea15a7f8e" status="1" subject="Star Wreath" />
+<task actualstartdate="2023-01-06 21:38:02.123329" creationDateTime="2023-01-06 16:40:00.666200" expandedContexts="('taskviewer',)" id="ac1ba452-8e0a-11ed-b06e-df4ea15a7f8e" modificationDateTime="2023-01-06 21:38:02.123193" ordering="2" status="1" subject="Permatrack" />
+<task actualstartdate="2023-01-06 21:38:04.057243" creationDateTime="2023-01-06 16:41:28.779466" id="e0a0a9ac-8e0a-11ed-b06e-df4ea15a7f8e" modificationDateTime="2023-01-06 21:38:04.057147" ordering="-1" status="1" subject="Pixel Tree #2" />
+<task actualstartdate="2023-01-06 21:43:00.176154" creationDateTime="2023-01-06 21:42:41.950627" id="f513bb52-8e34-11ed-b06e-df4ea15a7f8e" modificationDateTime="2023-01-06 21:43:00.175918" status="1" subject="Repair Singing Tree Gwen's Eyes" />
+</task>
+<task actualstartdate="2023-01-06 21:38:16.187646" creationDateTime="2023-01-06 08:33:51.534412" id="c1f35aca-8dc6-11ed-b06e-df4ea15a7f8e" modificationDateTime="2023-01-06 21:38:16.187508" prerequisites="8f4130ca-8dc6-11ed-b06e-df4ea15a7f8e 9c5b90e8-8dc6-11ed-b06e-df4ea15a7f8e a11e6664-8dc6-11ed-b06e-df4ea15a7f8e" status="1" subject="Tomato Trees" />
+<syncmlconfig>
+<TaskCoach-000001858747a7f8f6431bb2007f000000010001>
+<spds>
+<sources>
+<TaskCoach-000001858747a7f8f6431bb2007f000000010001.Tasks />
+<TaskCoach-000001858747a7f8f6431bb2007f000000010001.Notes />
+</sources>
+<syncml>
+<Auth />
+<Conn />
+</syncml>
+</spds>
+</TaskCoach-000001858747a7f8f6431bb2007f000000010001>
+</syncmlconfig>
+<guid>
+000001858747a7f8f6431bb2007f000000010001
+</guid>
+</tasks>
