@@ -1,0 +1,37 @@
+ID, Name, Display Order
+# First column is the ID and *MUST* be in contiguous order from zero to ...?
+# Second column is the name or description of the device type.
+# Third column is the order to display in.  Should be contiguous from zero to ...?
+#   but won't cause serious problems if there are duplicates or missing numbers.
+#     (But if so they may not sort into the display order you want!)
+#       You will probably want to display them in order from most used to the rarest. (but hey that's up to you)
+# First device type with ID of 0 is reserved for unknown/unclassified/whuteva
+0, Unclassified, 23
+1, Single Light, 4
+2, Projector, 2
+3, Laser, 3
+4, Beacon, 16
+5, Strobe, 20
+6, Motor, 19
+7, Flicker Bulb, 7
+8, Candy Cane, 5
+9, Box, 18
+10, RGB Strip, 11
+11, RGB Flood, 12
+12, LED Strip, 10
+13, Ropelight, 6
+14, Tree, 1
+15, UFO, 8
+16, Inflatable, 9
+17, Blowmold, 13
+18, Spare, 23
+19, Zone Power, 22
+20, Sign, 17
+21, Neon, 18
+22, LED String, 0
+23, Other..., 22
+24, Cutout, 19
+25, Wireframe- Flat, 14
+26, Wireframe- 3D, 15
+27, Ground Cover, 19
+28, Bad Triac, 26

@@ -1,0 +1,15 @@
+Universe,Controller,Name,Location,Comment,Active,Brand,Model,LOR4Channel Count,DMX Start,Voltage
+1,A,Tomato Trees Front Row,Behind Pixel Tree,,True,Renard,32 Plus,32,1,120
+1,B,Tomato Trees Back Row,Behind Big Tree 2,,True,LOR,CTB16PC,16,33,120
+1,C,Other Trees,Behind Rainbow Tree,,True,LOR,CTB16PC,16,49,120
+1,D,Far Left Yard,Behind Left Bushes,,True,LOR,LOR1602WIZ,16,65,120
+1,E,Center Left Yard,Behind Middle Bushes,,True,LOR,CTB16Wiz,16,81,120
+1,F,Near Left Yard,Behind brick wall,,True,LOR,CTB16PC,16,97,120
+1,G,Future Expansion,Left Yard Somewhere,,False,LOR,LOR1602W,16,113,120
+2,M,Right Pine Tree,Mounted to back of Right Pine tree,,True,LOR,LOR1602W,16,1,120
+2,N,Right Bushes,Behind Right Bushes,,True,LOR,CTB16WIZ,16,17,120
+2,O,Future Expansion,Right Yard Somewhere,,False,LOR,,16,33,120
+2,P,House Front,Garage,,True,LOR,Old LOR1602W Gen 1,16,49,120
+2,Q,LOR 24 ch Low Voltage 5/12 Volts,Garage,,True,LOR,CTB24D,24,65,12
+2,R,Chinese 27 ch Low Voltage 12 Volts,Garage,,True,Chinese,Generic DC 27,27,89,12
+999,Z,Phantom- Retired Channels,Nowhere,,False,Chauvet,None,32,1,120

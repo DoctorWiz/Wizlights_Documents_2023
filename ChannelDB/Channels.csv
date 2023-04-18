@@ -1,0 +1,236 @@
+Universe,Controller,LOR4Output,Name,Location,Comment,Active,Type,Color
+1,A,1,Tree- Tomato A1.1 (L} (R),Front row leftmost,,True,14,#FF0000
+1,A,2,Tree- Tomato A1.2 (L} (G),Front row leftmost,,True,14,#00FF00
+1,A,3,Tree- Tomato A1.3 (L} (B),Front row leftmost,,True,14,#0000FF
+1,A,4,Tree- Tomato A1.4 {L} (W),Front row leftmost,,True,14,#FFFFFF
+1,A,5,Tree- Tomato A2.1 (R),Front row near left,,True,14,#FF0000
+1,A,6,Tree- Tomato A2.2 (G),Front row near left,,True,14,#00FF00
+1,A,7,Tree- Tomato A2.3 (B),Front row near leaft,,True,14,#0000FF
+1,A,8,Tree- Tomato A2.4 (W),Front row near left,,True,14,#FFFFFF
+1,A,9,Tree- Tomato A3.1 (R),Front row 3rd from left,,True,14,#FF0000
+1,A,10,Tree- Tomato A3.2 (G),Front row 3rd from left,,True,14,#00FF00
+1,A,11,Tree- Tomato A3.3 (B),Front row 3rd from left,,True,14,#0000FF
+1,A,12,Tree- Tomato A3.4 (W),Front row 3rd from left,,True,14,#FFFFFF
+1,A,13,Tree- Tomato A4.1 {CL} (R),Front row left of center,,True,14,#FF0000
+1,A,14,Tree- Tomato A4.2 {CL} (G),Front row left of center,,True,14,#00FF00
+1,A,15,Tree- Tomato A4.3 {CL} (B),Front row left of center,,True,14,#0000FF
+1,A,16,Tree- Tomato A4.4 {CL} (W),Front row left of center,,True,14,#FFFFFF
+1,A,17,Tree- Tomato A5.1 {CR} (R),Front row right of center,,True,14,#FF0000
+1,A,18,Tree- Tomato A5.2 {CR} (G),Front row right of center,,True,14,#00FF00
+1,A,19,Tree- Tomato A5.3 {CR} (B),Front row right of center,,True,14,#0000FF
+1,A,20,Tree- Tomato A5.4 {CR} (W),Front row right of center,,True,14,#FFFFFF
+1,A,21,Tree- Tomato A6.1 (R),Front row third from right,,True,14,#FF0000
+1,A,22,Tree- Tomato A6.2 (G),Front row third from right,,True,14,#00FF00
+1,A,23,Tree- Tomato A6.3 (B),Front row third from right,,True,14,#0000FF
+1,A,24,Tree- Tomato A6.4 (W),Front row third from right,,True,14,#FFFFFF
+1,A,25,Tree- Tomato A7.1 (R),Front row near right,,True,14,#FF0000
+1,A,26,Tree- Tomato A7.2 (G),Front row near right,,True,14,#00FF00
+1,A,27,Tree- Tomato A7.3 (B),Front row near right,,True,14,#0000FF
+1,A,28,Tree- Tomato A7.4 (W),Front row near right,,True,14,#FFFFFF
+1,A,29,Tree- Tomato A8.1 {R} (R),Front row rightmost,,True,14,#FF0000
+1,A,30,Tree- Tomato A8.2 {R} (G),Front row rightmost,,True,14,#00FF00
+1,A,31,Tree- Tomato A8.3 {R} (B),Front row rightmost,,True,14,#0000FF
+1,A,32,Tree- Tomato A8.4 {R} (W),Front row rightmost,,True,14,#FFFFFF
+1,B,1,Tree- Tomato B1.1 {L} (V),"Back row, leftmost",,True,14,#8000FF
+1,B,2,Tree- Tomato B1.2 {L} (W),"Back row, leftmost",,True,14,#FFFFFF
+1,B,3,Tree- Tomato B2.1 (V),Back row 2nd from Left,,True,14,#8000FF
+1,B,4,Tree- Tomato B2.2 (W),Back row 2nd from left,,True,14,#FFFFFF
+1,B,5,Tree- Tomato B3.1 (V),,,True,14,#8000FF
+1,B,6,Tree- Tomato B3.2 (W),,,True,14,#FFFFFF
+1,B,7,Tree- Tomato B4.1 {CL} (V),Back row left of Center,,True,14,#8000FF
+1,B,8,Tree- Tomato B4.2 {CL} (W),Back row left of Center,,True,14,#FFFFFF
+1,B,9,Tree- Tomato B5.1 {CR} (V),Back row right of center,,True,14,#8000FF
+1,B,10,Tree- Tomato B5.2 {CR} (W),Back row right of center,,True,14,#FFFFFF
+1,B,11,Tree- Tomato B6.1 (V),,,True,14,#8000FF
+1,B,12,Tree- Tomato B6.2 (W),,,True,14,#FFFFFF
+1,B,13,Tree- Tomato B7.1 (V),Back row 2nd from the right,,True,14,#8000FF
+1,B,14,Tree- Tomato B7.2 (W),Back row 2nd from the right,,True,14,#FFFFFF
+1,B,15,Tree- Tomato B8.1 {R} (V),Back row rightmost,,True,14,#8000FF
+1,B,16,Tree- Tomato B8.2 {R} (W),Back row rightmost,,True,14,#FFFFFF
+1,C,1,Tree- Spiral 1 {L} (WR),Yard,,False,14,#FF0000
+1,C,2,Tree- Spiral 2 {F} (WG),Yard center near house,,False,14,#00FF00
+1,C,3,Tree- Spiral 3 {R} (WB),Yard center near house,,False,14,#0000FF
+1,C,4,Tree- Spiral 4 {B} (WV),Yard center near house,,True,14,#8000FF
+1,C,5,Tree- Big AC 1 (M),Back row center,,True,14,#804040
+1,C,6,Tree- Small {L} (B),,,False,14,#0000FF
+1,C,7,Tree- Tinsel 1 {L} (R),Behind back row on left,,True,14,#FF0000
+1,C,8,Tree- Tinsel 2 {R} (R),Behind back row on right,,True,14,#FF0000
+1,C,9,Trees- Rainbow (ROYGBV),Left yard,,True,14,#804040
+1,C,10,Trees- Willow and Palm (GW),Left yard,,True,14,#A4FFA4
+1,C,11,Strobes- C9- Trees {FC} (W),Front Trees,,True,5,#FFFFFF
+1,C,12,Presents (M),Under the front Pixel tree,,True,9,#804040
+1,C,13,New Tree #1,New Tree #1,,True,14,#FF0000
+1,C,14,New Tree #2,,,True,14,#FF8000
+1,C,15,New Tree #3,,,True,14,#00FF00
+1,C,16,New Tree #4,Yard,,True,14,#80FFFF
+1,D,1,Bushes 1 {S} Rainbow (ROGBV),Left side of house,,False,22,#804040
+1,D,2,Bushes 2.1 {L} (M),Left front of house,,True,22,#804040
+1,D,3,Bushes 2.2 {L} (W),Left front of house,,True,22,#FFFFFF
+1,D,4,Bushes 2.3 {L} Low (O),Left front of house,,True,22,#FF8000
+1,D,5,Strobes- 5mm- Bushes {BLC} (W),In the front bushes,,True,5,#FFFFFF
+1,D,6,Strobes- C9- Bushes {BLC} (W),In the bushes and on the house,,True,5,#FFFFFF
+1,D,7,Coexist Flag (MRGB),Left middle yard,,True,2,#400000
+1,D,8,Lamp Post Directions (O),Far front left corner of yard,,True,7,#FF8000
+1,D,9,Laser- Streetlight (R),On top of Lamp Post Directions,,False,3,#FF0000
+1,D,10,Menorah (B),Left Yard,,True,7,#0000FF
+1,D,11,Peace Sign (RGB),RV Roof,,True,21,#400000
+1,D,12,BAD TRIAC D12,Controller D Output 12,Bad Triac!,False,28,#000000
+1,D,13,Snowman (W),,,True,17,#FFFFFF
+1,D,14,UFOs 1 {L} (RGB),Left front wall of house,,True,15,#400000
+1,D,16,Inflatable Arch Lights,In front of RV,,True,16,#FFFFFF
+1,E,1,Bushes 3.1 {C} (R),Front Center bushes,,True,22,#FF0000
+1,E,2,Bushes 3.2 {C} (G),Front Center bushes,,True,22,#00FF00
+1,E,3,Bushes 3.3 {C} (B),Front Center bushes,,True,22,#0000FF
+1,E,4,Bushes 3.4 {C} (W),Front Center bushes,,True,22,#FFFFFF
+1,E,5,Spare E05,,,True,18,#C0C0C0
+1,E,6,Spare F06,,,True,18,#C0C0C0
+1,E,7,Lamp Posts (Y),,,True,1,#FFFF00
+1,E,8,Lasers- House Front (RGB),Projecting onto front center wall- Chimn,,True,3,#400000
+1,E,9,Mailboxes (O),,,True,22,#FF8000
+1,E,10,Spare F10,,,False,18,#C0C0C0
+1,E,11,Snowfall Projectors (WB),In middle bushes projecting on house wal,,True,2,#B0FFFF
+1,E,12,Swirlies- Snowflakes (WB),Front of the House,,True,2,#6AB5FF
+1,E,13,Spare E13,Middle Bushes,,False,18,#C0C0C0
+1,E,14,Spare F14,,,True,18,#C0C0C0
+1,E,15,Spare F15,,,True,18,#C0C0C0
+1,E,16,Penguins,,,True,17,#FFFFFF
+1,F,1,Candy Canes 1 (R),Perimeter of yard,,True,8,#FF0000
+1,F,2,Candy Canes 2 (G),Perimeter of yard,,True,8,#00FF00
+1,F,3,Candy Canes 3 (R),Perimeter of yard,,True,8,#FF0000
+1,F,4,Candy Canes 4 (G),Perimeter of yard,,True,8,#00FF00
+1,F,5,Countdown Timer (B),Right of main yard,,True,2,#0000FF
+1,F,6,Flying Spaghetti Monster (W),,,True,13,#FFFFFF
+1,F,7,Snowman Lamp Inflatable,Front Yard,,True,16,#FFFFFF
+1,F,8,Spare F08,,,True,18,#C0C0C0
+1,F,9,Yule Log (O),,,True,7,#FF8000
+1,F,10,Snow Lake (W),,,True,22,#FFFFFF
+1,F,11,Spare F11,,,True,18,#C0C0C0
+1,F,12,!Bad Triac!,Bad Triac #12,,True,28,#C0C0C0
+1,F,13,Work Together 1 (R),Controller E Output 14,,False,20,#FF0000
+1,F,14,Work Together 2 (W),"Controller E, Output 15",,False,20,#FFFFFF
+1,F,15,Work Together 3 (B),Controller E Output 16,Power to controllers in Universe 2 in the Garage and on the Right side of the display.,True,20,#0000FF
+1,F,16,Work Together 4 Swirly Stars (RWB),Front Yard,"Actually RWB, not RGB",True,2,#804040
+1,G,1,Spare G01,Controller G Output 1,,False,18,#C0C0C0
+1,G,2,Spare G02,Controller G Output 2,,False,18,#C0C0C0
+1,G,4,Spare G04,Controller G Output 4,,False,18,#C0C0C0
+1,G,5,Spare G05,Controller G Output 5,,False,18,#C0C0C0
+1,G,6,Spare G06,Controller G Output 6,,False,18,#C0C0C0
+1,G,7,Spare G07,Controller G Output 7,,False,18,#C0C0C0
+1,G,8,Spare G08,Controller G Output 8,,False,18,#C0C0C0
+1,G,9,Spare G09,Controller G Output 9,,False,18,#C0C0C0
+1,G,10,Spare G10,Controller G Output 10,,False,18,#C0C0C0
+1,G,11,Spare G11,Controller G Output 11,,False,18,#C0C0C0
+1,G,12,Spare G12,Controller G Output 12,,False,18,#C0C0C0
+1,G,13,Spare G13,Controller G Output 13,,False,18,#C0C0C0
+1,G,14,Spare G14,Controller G Output 14,,False,18,#C0C0C0
+1,G,15,Spare G15,Controller G Output 15,,False,18,#C0C0C0
+1,G,16,Spare G16,Controller G Output 16,,False,18,#C0C0C0
+2,M,1,Nativity Jesus Mary Joseph,In the manger,,True,17,#0080C0
+2,M,8,Lasers- Driveway (RG),,,True,3,#800000
+2,M,9,Lasers- Street (RG),,,True,3,#800000
+2,M,11,Swirlies- Driveway (RGB),,,True,2,#400000
+2,M,12,Swirlies- Manger Stars (RWB),Shining on the manger scene,,True,2,#0080C0
+2,M,13,Swirlies- Oak (RGB),Oak tree right yard,,True,2,#400000
+2,M,14,Swirlies- Pine (GO),,,True,2,#008000
+2,M,15,Swirlies- Street (M),Shining on the street,,True,2,#804040
+2,N,1,BAD TRIAC! Controller N Output 1,Output 1 of Controller N,Damaged by ants and not repairable,False,23,#000000
+2,N,2,Bushes 5.1 {R} (R),,,True,22,#FF0000
+2,N,3,Bushes 5.2 {R} (G),,,True,22,#00FF00
+2,N,4,Bushes 5.3 {R} (B),,,True,22,#0000FF
+2,N,5,Bushes 5.4 {R} (W),,,True,22,#FFFFFF
+2,N,6,Bushes 5.5 {R} (V),,,True,22,#8000FF
+2,N,7,Bushes 5.6 {R} (M),,,True,22,#804040
+2,N,8,Strobes- C9 Bushes {R} (W),Right Bushes,,True,5,#FFFFFF
+2,N,9,Spare N9,Controller N Output 9,,False,18,#C0C0C0
+2,N,10,Spare N10,Controller N Output 10,,False,18,#C0C0C0
+2,N,11,Spare N11,Controller N Output 11,,False,18,#C0C0C0
+2,N,12,Spare N12,Controller N Output 9,,False,18,#C0C0C0
+2,N,13,Eaves Chase (R),Under the Eaves,,True,22,#FF0000
+2,N,14,Eaves Chase (G),Under the Eaves,,True,22,#00FF00
+2,N,15,Eaves Chase (B),Under the Eaves,,True,22,#0000FF
+2,N,16,Eaves Chase (W),Under the Eaves,,True,22,#FFFFFF
+2,O,1,Spare O01,Controller O Output 1,,False,18,#C0C0C0
+2,O,2,Spare O02,Controller O Output 2,,False,18,#C0C0C0
+2,O,3,Spare O03,Controller O Output 3,,False,18,#C0C0C0
+2,O,4,Spare O04,Controller O Output 4,,False,18,#C0C0C0
+2,O,5,Spare O05,Controller O Output 5,,False,18,#C0C0C0
+2,O,6,Spare O06,Controller O Output 6,,False,18,#C0C0C0
+2,O,7,Spare O07,Controller O Output 7,,False,18,#C0C0C0
+2,O,8,Spare O08,Controller O Output 8,,False,18,#C0C0C0
+2,O,9,Spare O09,Controller O Output 9,,False,18,#C0C0C0
+2,O,10,Spare O10,Controller O Output 10,,False,18,#C0C0C0
+2,O,11,Spare O11,Controller O Output 11,,False,18,#C0C0C0
+2,O,12,Spare O12,Controller O Output 12,,False,18,#C0C0C0
+2,O,13,Spare O13,Controller O Output 13,,False,18,#C0C0C0
+2,O,14,Spare O14,Controller O Output 14,,False,18,#C0C0C0
+2,O,15,Spare O15,Controller O Output 15,,False,18,#C0C0C0
+2,O,16,Spare O16,Controller O Output 16,,False,18,#C0C0C0
+2,P,1,Big Nick Inside (W),On top of the chimney,,True,16,#FFFFFF
+2,P,2,Swirlies- Big Nick Fire (RO),On Big Nick on top of the Chimney,,True,2,#FF3900
+2,P,3,Swiriles- Candy Canes (RG),From the chimney onto the roof,,True,2,#800000
+2,P,4,Big Nick Strobes,Over Big Nick's Head,,True,5,#FFFFFF
+2,P,6,UFOs 2 {CT} (RGB),Top of chimney,,True,15,#400000
+2,P,7,UFOs 3 {R} (RGB),Garage Door,,True,15,#400000
+2,P,8,Disco Balls (M),Roof,,True,23,#804040
+2,P,9,Wreath Berries (R),Big Festive Wreath on the chimney,,True,22,#FF0000
+2,P,10,Wreath Leaves (G),Big Festive Wreath on the Chimney,,True,22,#00FF00
+2,P,16,On The Air,Controller I (Garage) Output 16,,True,1,#FF0000
+2,Q,1,Garage Window 1 Dasher {L} (W),Garage Window leftmost,,True,1,#FFFFFF
+2,Q,2,Garage Window 2 Dancer (W),Garage window 2nd from left,,True,1,#FFFFFF
+2,Q,3,Garage Window 3 Prancer (W),Garage Window 3rd from left,,True,1,#FFFFFF
+2,Q,4,Garage Window 4 Vixen (W),,,True,1,#FFFFFF
+2,Q,5,Garage Window 5 Comet (W),,,True,1,#FFFFFF
+2,Q,6,Garage Window 6 Cupid (W),,,True,1,#FFFFFF
+2,Q,7,Garage Window 7 Donner (W),Garage window 2nd from right,,True,1,#FFFFFF
+2,Q,8,Garage Window 8 Blitzen {R} (W),Garage Window rightmost,,True,1,#FFFFFF
+2,Q,9,Meteors 1 (W),,,True,23,#FFFFFF
+2,Q,10,Meteors 2 (W),,,True,23,#FFFFFF
+2,Q,11,Meteors 3 (B),,,True,23,#0000FF
+2,Q,12,Meteors 4 (M),,,True,23,#804040
+2,Q,13,Rotating Beacons 1 {F} (RGBO),Front of Left Yard,,True,4,#804040
+2,Q,14,Rotating Beacons 2 {B} (RGBO),Back of Left Yard,,True,4,#804040
+2,Q,15,Rotating Beacons 3 {R} (RGBO),"Controller G, Output 24",,True,23,#804040
+2,Q,16,Spare 12V Q16,,,True,18,#C0C0C0
+2,Q,17,Spare 12V Q17,,,True,18,#C0C0C0
+2,Q,18,Spare 12 Volt O18,"Controller O Output 18, 12 Volts",,True,18,#C0C0C0
+2,Q,19,Spare 12 Volt O19,"Controller O Output 19, 12 Volts",,True,18,#C0C0C0
+2,Q,20,Spare 12 Volt H20,Controller H Output 20,,True,18,#C0C0C0
+2,Q,21,Spare 12 Volt H21,Controller H Output 21,,True,18,#C0C0C0
+2,Q,22,Spare 12 Volt H22,Controller H Output 22,,True,18,#C0C0C0
+2,Q,23,Transmitter 12V,Garage,Turns on during musical sequences off during animated,True,19,#CD0158
+2,Q,24,Amplifier 12V,Garage,"On for musical sequences, off for animated",True,19,#008080
+2,R,1,Manger Flood 1 {L} (R),Shining on the manger scene,,True,11,#FF0000
+2,R,2,Manger Flood 1 {L} (G),Shining on the manger scene,,True,11,#00FF00
+2,R,3,Manger Flood 1 {L} (B),Shining on the manger scene,,True,11,#0000FF
+2,R,4,Manger Flood 2 {R} (R),Shining on the manger scene,,True,11,#FF0000
+2,R,5,Manger Flood 2 {R} (G),Shining on the manger scene,,True,11,#00FF00
+2,R,6,Manger Flood 2 {R} (B),Shining on the manger scene,,True,11,#0000FF
+2,R,7,Festivus Pole Flood (R),Base of the Festivus Pole,,True,11,#FF0000
+2,R,8,Festivus Pole Flood (G),Base of the Festivus Pole,,True,11,#00FF00
+2,R,9,Festivus Pole Flood (B),Base of the Festivus Pole,,True,11,#0000FF
+2,R,10,Spare 12 Volt RGB Device (R),"Controller G, Output 19",,False,18,#FF0000
+2,R,11,Spare 12 Volt RGB Device (G),"Controller G, Output 20",,False,18,#00FF00
+2,R,12,Spare 12 Volt RGB Device (B),"Controller G, Output 21",,False,18,#0000FF
+2,R,13,Tree- Rainbow Inflatible (R),Yard Left Edge,,True,11,#FF0000
+2,R,14,Tree- Rainbow Inflatible (G),Leftmost Yard,,True,11,#00FF00
+2,R,15,Tree- Rainbow Inflatible (B),Leftmost Yard,,True,11,#0000FF
+2,R,16,Spare 12 Volt RGB Device (R),,,True,18,#C0C0C0
+2,R,17,Spare 12 Volt RGB Device (G),,,True,18,#C0C0C0
+2,R,18,Spare 12 Volt RGB Device (B),,,True,18,#C0C0C0
+2,R,19,Roof Ridgeline 1 {L} (R),Left Roof Top Ridgeline,,True,10,#FF0000
+2,R,20,Roof Ridgeline 1 {L} (G),Left Roof Top Ridgeline,,True,10,#00FF00
+2,R,21,Roof Ridgeline 1 {L} (B),Left Roof Top Ridgeline,,True,10,#0000FF
+2,R,22,Roof Ridgeline 2 {R} (R),Right Roof Top Ridgeline,,True,10,#FF0000
+2,R,23,Roof Ridgeline 2 {R} (G),Right Roof Top Ridgeline,,True,10,#00FF00
+2,R,24,Roof Ridgeline 2 {R} (B),Right Roof Top Ridgeline,,True,10,#0000FF
+2,R,25,Spare 12 Volt RGB Device (R),,,True,18,#C0C0C0
+2,R,26,Spare 12 Volt RGB Device (G),,,True,18,#C0C0C0
+2,R,27,Spare 12 Volt RGB Device (B),Controller H Output 18,,True,18,#C0C0C0
+999,Z,1,zRainbow Rope Arch 1 (R),,,False,13,#FF0000
+999,Z,2,zRainbow Rope Arch 2 (O),,,False,13,#FF8000
+999,Z,3,zRainbow Rope Arch 3 (Y),,,False,13,#FFFF00
+999,Z,4,zRainbow Rope Arch 4 (G),,,False,13,#00FF00
+999,Z,5,zRainbow Rope Arch 5 (B),,,False,13,#0000FF
+999,Z,6,zRainbow Rope Arch 6 (V),,,False,13,#8000FF
+999,Z,7,zTree- Big 2 (M),,,False,14,#804040
+999,Z,8,zYellow Snow (Y),,,False,22,#FFFF00

@@ -1,0 +1,1034 @@
+*** Channel Manager Report ***
+[Exact Matches to LOR Channels]
+  Exact: Tree- Tomato A1.1 (L} (R) to Tree- Tomato A1.1 (L} (R)
+  Exact: Tree- Tomato A1.2 (L} (G) to Tree- Tomato A1.2 (L} (G)
+  Exact: Tree- Tomato A1.3 (L} (B) to Tree- Tomato A1.3 (L} (B)
+  Exact: Tree- Tomato A1.4 {L} (W) to Tree- Tomato A1.4 {L} (W)
+  Exact: Tree- Tomato A2.1 (R) to Tree- Tomato A2.1 (R)
+  Exact: Tree- Tomato A2.2 (G) to Tree- Tomato A2.2 (G)
+  Exact: Tree- Tomato A2.3 (B) to Tree- Tomato A2.3 (B)
+  Exact: Tree- Tomato A5.1 {CR} (R) to Tree- Tomato A5.1 {CR} (R)
+  Exact: Tree- Tomato A5.2 {CR} (G) to Tree- Tomato A5.2 {CR} (G)
+  Exact: Tree- Tomato A5.3 {CR} (B) to Tree- Tomato A5.3 {CR} (B)
+  Exact: Tree- Tomato A5.4 {CR} (W) to Tree- Tomato A5.4 {CR} (W)
+  Exact: Tree- Tomato A6.1 (R) to Tree- Tomato A6.1 (R)
+  Exact: Tree- Tomato A6.2 (G) to Tree- Tomato A6.2 (G)
+  Exact: Tree- Tomato A6.3 (B) to Tree- Tomato A6.3 (B)
+  Exact: Tree- Tomato A6.4 (W) to Tree- Tomato A6.4 (W)
+  Exact: Tree- Tomato A7.1 (R) to Tree- Tomato A7.1 (R)
+  Exact: Tree- Tomato A7.2 (G) to Tree- Tomato A7.2 (G)
+  Exact: Tree- Tomato A7.3 (B) to Tree- Tomato A7.3 (B)
+  Exact: Tree- Tomato A7.4 (W) to Tree- Tomato A7.4 (W)
+  Exact: Tree- Tomato A8.1 {R} (R) to Tree- Tomato A8.1 {R} (R)
+  Exact: Tree- Tomato A8.2 {R} (G) to Tree- Tomato A8.2 {R} (G)
+  Exact: Tree- Tomato A8.3 {R} (B) to Tree- Tomato A8.3 {R} (B)
+  Exact: Tree- Tomato A8.4 {R} (W) to Tree- Tomato A8.4 {R} (W)
+  Exact: Tree- Tomato B1.1 {L} (V) to Tree- Tomato B1.1 {L} (V)
+  Exact: Meteors 3 (B) to Meteors 3 (B)
+  Exact: Tree- Big 2 (M) to Tree- Big 2 (M)
+    But the DMX Address does not match! 999/142 != -1/-1
+
+[Fuzzy Matches to LOR Channels]
+  Fuzzy: Tree- Tomato A2.4 (W) to Tree- Tomato A2.4 (W)
+  Fuzzy: Tree- Tomato A3.1 (R) to Tree- Tomato A3.1 (R)
+  Fuzzy: Tree- Tomato A3.2 (G) to Tree- Tomato A3.2 (G)
+  Fuzzy: Tree- Tomato A3.3 (B) to Tree- Tomato A3.3 (B)
+  Fuzzy: Tree- Tomato A3.4 (W) to Tree- Tomato A3.4 (W)
+  Fuzzy: Tree- Tomato A4.1 {CL} (R) to Tree- Tomato A4.1 {CL} (R)
+  Fuzzy: Tree- Tomato A4.2 {CL} (G) to Tree- Tomato A4.2 {CL} (G)
+  Fuzzy: Tree- Tomato A4.3 {CL} (B) to Tree- Tomato A4.3 {CL} (B)
+  Fuzzy: Tree- Tomato A4.4 {CL} (W) to Tree- Tomato A4.4 {CL} (W)
+  Fuzzy: Tree- Tomato B1.2 {L} (W) to Tree- Tomato B1.2 {L} (W)
+  Fuzzy: Tree- Tomato B2.1 (V) to Tree- Tomato B2.1 (V)
+  Fuzzy: Tree- Tomato B2.2 (W) to Tree- Tomato B2.2 (W)
+  Fuzzy: Tree- Tomato B3.1 (V) to Tree- Tomato B3.1 (V)
+  Fuzzy: Tree- Tomato B3.2 (W) to Tree- Tomato B3.2 (W)
+  Fuzzy: Tree- Tomato B4.1 {CL} (V) to Tree- Tomato B4.1 {CL} (V)
+  Fuzzy: Tree- Tomato B4.2 {CL} (W) to Tree- Tomato B4.2 {CL} (W)
+  Fuzzy: Tree- Tomato B5.1 {CR} (V) to Tree- Tomato B5.1 {CR} (V)
+  Fuzzy: Tree- Tomato B5.2 {CR} (W) to Tree- Tomato B5.2 {CR} (W)
+  Fuzzy: Tree- Tomato B6.1 (V) to Tree- Tomato B6.1 (V)
+  Fuzzy: Tree- Tomato B6.2 (W) to Tree- Tomato B6.2 (W)
+  Fuzzy: Tree- Tomato B7.1 (V) to Tree- Tomato B7.1 (V)
+  Fuzzy: Tree- Tomato B7.2 (W) to Tree- Tomato B7.2 (W)
+  Fuzzy: Tree- Tomato B8.1 {R} (V) to Tree- Tomato B8.1 {R} (V)
+  Fuzzy: Tree- Tomato B8.2 {R} (W) to Tree- Tomato B8.2 {R} (W)
+  Fuzzy: Tree- Spiral 1 {L} (WR) to Tree- Spiral 1 {L} (WR)
+  Fuzzy: Tree- Spiral 2 {F} (WG) to Tree- Spiral 2 {F} (WG)
+  Fuzzy: Tree- Spiral 3 {R} (WB) to Tree- Spiral 3 {R} (WB)
+  Fuzzy: Tree- Spiral 4 {B} (WV) to Tree- Spiral 4 {B} (WV)
+  Fuzzy: Tree- Big 1 (M) to Tree- Big 1 (M)
+  Fuzzy: Trees- Rainbow (ROYGBV) to Trees- Rainbow (ROYGBV)
+  Fuzzy: Tree- Tinsel 1 {L} (R) to Tree- Tinsel 1 {L} (R)
+  Fuzzy: Tree- Tinsel 2 {R} (R) to Tree- Tinsel 2 {R} (R)
+  Fuzzy: Tree- Small {L} (B) to Tree- Small {L} (B)
+  Fuzzy: Trees- Willow and Palm (GW) to Trees- Willow and Palm (GW)
+  Fuzzy: Strobes- on Trees (W) to Strobes- on Trees (W)
+  Fuzzy: Presents (M) to Presents (M)
+  Fuzzy: Candy Canes 1 (R) to Candy Canes 1 (R)
+  Fuzzy: Candy Canes 2 (G) to Candy Canes 2 (G)
+  Fuzzy: Candy Canes 3 (R) to Candy Canes 3 (R)
+  Fuzzy: Candy Canes 4 (G) to Candy Canes 4 (G)
+  Fuzzy: Bushes 1 {S} Rainbow (ROGBV) to Bushes 1 {S} Rainbow (ROGBV)
+  Fuzzy: Bushes 2.1 {L} (M) to Bushes 2.1 {L} (M)
+  Fuzzy: Bushes 2.2 {L} (W) to Bushes 2.2 {L} (W)
+  Fuzzy: Bushes 2.3 {L} Low (O) to Bushes 2.3 {L} Low (O)
+  Fuzzy: Spare D5 to Spare D5
+  Fuzzy: Coexist Flag (MRGB) to Coexist Flag (MRGB)
+  Fuzzy: Lamp Post Directions (O) to Lamp Post Directions (O)
+  Fuzzy: Penguins to Penguins
+  Fuzzy: Strobes- Bushes + House (W) to Strobes- Bushes + House (W)
+  Fuzzy: Strobes- 5mm Bushes (W) to Strobes- 5mm Bushes (W)
+  Fuzzy: UFOs 1 {L} (RGB) to UFOs 1 {L} (RGB)
+  Fuzzy: UFOs 2 {CT} (RGB) to UFOs 2 {CT} (RGB)
+  Fuzzy: Laser- Streetlight (R) to Laser- Streetlight (R)
+  Fuzzy: Snowman (W) to Snowman (W)
+  Fuzzy: Peace Sign (RGB) to Peace Sign (RGB)
+  Fuzzy: Menorah (B) to Menorah (B)
+  Fuzzy: Bushes 3.1 {C} (R) to Bushes 3.1 {C} (R)
+  Fuzzy: Bushes 3.2 {C} (G) to Bushes 3.2 {C} (G)
+  Fuzzy: Bushes 3.3 {C} (B) to Bushes 3.3 {C} (B)
+  Fuzzy: Bushes 3.4 {C} (W) to Bushes 3.4 {C} (W)
+  Fuzzy: Bushes 3.5 {C} 5mm Strobes (W) to Bushes 3.5 {C} 5mm Strobes (W)
+  Fuzzy: Flying Spaghetti Monster (W) to Flying Spaghetti Monster (W)
+  Fuzzy: Lasers- House (RGB) to Lasers- House (RGB)
+  Fuzzy: Spare E8 to Spare E8
+  Fuzzy: Spare E9 to Spare E9
+  Fuzzy: Spare E10 to Spare E10
+  Fuzzy: Swirlies- Snowflakes (WB) to Swirlies- Snowflakes (WB)
+  Fuzzy: Snowfall Projectors (WB) to Snowfall Projectors (WB)
+  Fuzzy: Countdown Timer (B) to Countdown Timer (B)
+  Fuzzy: Yule Log (O) to Yule Log (O)
+  Fuzzy: Mailboxes (O) to Mailboxes (O)
+  Fuzzy: Lamp Posts (Y) to Lamp Posts (Y)
+  Fuzzy: Spare F1 to Spare F1
+  Fuzzy: Festivus Pole Flood (R) to Festivus Pole Flood (R)
+  Fuzzy: Festivus Pole Flood (G) to Festivus Pole Flood (G)
+  Fuzzy: Festivus Pole Flood (B) to Festivus Pole Flood (B)
+  Fuzzy: Manger Flood 1 {L} (R) to Manger Flood 1 {L} (R)
+  Fuzzy: Manger Flood 1 {L} (G) to Manger Flood 1 {L} (G)
+  Fuzzy: Manger Flood 1 {L} (B) to Manger Flood 1 {L} (B)
+  Fuzzy: Manger Flood 2 {R} (R) to Manger Flood 2 {R} (R)
+  Fuzzy: Manger Flood 2 {R} (G) to Manger Flood 2 {R} (G)
+  Fuzzy: Manger Flood 2 {R} (B) to Manger Flood 2 {R} (B)
+  Fuzzy: Flood 4 (R) to Flood 4 (R)
+  Fuzzy: Flood 4 (G) to Flood 4 (G)
+  Fuzzy: Flood 4 (B) to Flood 4 (B)
+  Fuzzy: Roof Ridgeline 1 {L} (R) to Roof Ridgeline 1 {L} (R)
+  Fuzzy: Roof Ridgeline 1 {L} (G) to Roof Ridgeline 1 {L} (G)
+  Fuzzy: Roof Ridgeline 1 {L} (B) to Roof Ridgeline 1 {L} (B)
+  Fuzzy: Roof Ridgeline 2 {R} (R) to Roof Ridgeline 2 {R} (R)
+  Fuzzy: Roof Ridgeline 2 {R} (G) to Roof Ridgeline 2 {R} (G)
+  Fuzzy: Roof Ridgeline 2 {R} (B) to Roof Ridgeline 2 {R} (B)
+  Fuzzy: Spare 12 Volt G19 to Spare 12 Volt G19
+  Fuzzy: Spare 12 Volt G20 to Spare 12 Volt G20
+  Fuzzy: Spare 12 Volt G21 to Spare 12 Volt G21
+  Fuzzy: Spare 12 Volt G22 to Spare 12 Volt G22
+  Fuzzy: Spare 12 Volt G23 to Spare 12 Volt G23
+  Fuzzy: Spare 12 Volt G24 to Spare 12 Volt G24
+  Fuzzy: Spare 12 Volt G25 to Spare 12 Volt G25
+  Fuzzy: Rotating Beacons {L} (RGBO) to Rotating Beacons {L} (RGBO)
+  Fuzzy: Rotating Beacons {R} (RGBO) to Rotating Beacons {R} (RGBO)
+  Fuzzy: Garage Window 1 Dasher {L} (W) to Garage Window 1 Dasher {L} (W)
+  Fuzzy: Garage Window 2 Dancer (W) to Garage Window 2 Dancer (W)
+  Fuzzy: Garage Window 3 Prancer (W) to Garage Window 3 Prancer (W)
+  Fuzzy: Garage Window 4 Vixen (W) to Garage Window 4 Vixen (W)
+  Fuzzy: Garage Window 5 Comet (W) to Garage Window 5 Comet (W)
+  Fuzzy: Garage Window 6 Cupid (W) to Garage Window 6 Cupid (W)
+  Fuzzy: Garage Window 7 Donner (W) to Garage Window 7 Donner (W)
+  Fuzzy: Garage Window 8 Blitzen {R} (W) to Garage Window 8 Blitzen {R} (W)
+  Fuzzy: Meteors 1 (W) to Meteors 1 (W)
+  Fuzzy: Meteors 2 (W) to Meteors 2 (W)
+  Fuzzy: Meteors 4 (M) to Meteors 4 (M)
+  Fuzzy: Spare 5 Volt H13 to Spare 5 Volt H13
+  Fuzzy: Spare 5 Volt H14 to Spare 5 Volt H14
+  Fuzzy: Spare 5 Volt H15 to Spare 5 Volt H15
+  Fuzzy: Spare 5 Volt H16 to Spare 5 Volt H16
+  Fuzzy: Spare 5 Volt H17 to Spare 5 Volt H17
+  Fuzzy: Spare 5 Volt H18 to Spare 5 Volt H18
+  Fuzzy: Spare 5 Volt H19 to Spare 5 Volt H19
+  Fuzzy: Spare 5 Volt H20 to Spare 5 Volt H20
+  Fuzzy: Spare 5 Volt H21 to Spare 5 Volt H21
+  Fuzzy: Spare 5 Volt H22 to Spare 5 Volt H22
+  Fuzzy: Spare 5 Volt H23 to Spare 5 Volt H23
+  Fuzzy: Spare 5 Volt H24 to Spare 5 Volt H24
+  Fuzzy: Eaves Chase 1 (R) to Eaves Chase 1 (R)
+  Fuzzy: Eaves Chase 2 (G) to Eaves Chase 2 (G)
+  Fuzzy: Eaves Chase 3 (B) to Eaves Chase 3 (B)
+  Fuzzy: Eaves Chase 4 (W) to Eaves Chase 4 (W)
+  Fuzzy: Bushes 4.1 {D} (Pink) to Bushes 4.1 {D} (Pink)
+  Fuzzy: Bushes 4.2 {D} (W) to Bushes 4.2 {D} (W)
+  Fuzzy: Big Nick Inside (W) to Big Nick Inside (W)
+  Fuzzy: Swirlies- Big Nick Fire (RO) to Swirlies- Big Nick Fire (RO)
+  Fuzzy: Candy Cane Swirlies (RG) to Candy Cane Swirlies (RG)
+  Fuzzy: UFOs 3 {R} (RGB) to UFOs 3 {R} (RGB)
+  Fuzzy: Snow Lake (W) to Snow Lake (W)
+  Fuzzy: Disco Balls (M) to Disco Balls (M)
+  Fuzzy: Wreath Leaves (G) to Wreath Leaves (G)
+  Fuzzy: Wreath Berries (R) to Wreath Berries (R)
+  Fuzzy: Strobes- Right Bushes + Trees (W) to Strobes- Right Bushes + Trees (W)
+  Fuzzy: Spare A16 to Spare A16
+  Fuzzy: BAD TRIAC! Controller F Output 1 to BAD TRIAC! Controller F Output 1
+  Fuzzy: Bushes 5.1 {R} (R) to Bushes 5.1 {R} (R)
+  Fuzzy: Bushes 5.2 {R} (G) to Bushes 5.2 {R} (G)
+  Fuzzy: Bushes 5.3 {R} (B) to Bushes 5.3 {R} (B)
+  Fuzzy: Bushes 5.4 {R} (W) to Bushes 5.4 {R} (W)
+  Fuzzy: Bushes 5.5 {R} (V) to Bushes 5.5 {R} (V)
+  Fuzzy: Bushes 5.6 {R} (M) to Bushes 5.6 {R} (M)
+  Fuzzy: Laser- Driveway (RG) to Laser- Driveway (RG)
+  Fuzzy: Laser- Street (RG) to Laser- Street (RG)
+  Fuzzy: Nativity Characters to Nativity Characters
+  Fuzzy: Spare J11 to Spare J11
+  Fuzzy: Swirlies- Driveway (RGB) to Swirlies- Driveway (RGB)
+  Fuzzy: Swirlies- Pine (GO) to Swirlies- Pine (GO)
+  Fuzzy: Swirlies- Oak (RGB) to Swirlies- Oak (RGB)
+  Fuzzy: Swirlies- Manger Stars (RWB) to Swirlies- Manger Stars (RWB)
+  Fuzzy: Swirlies- Street (M) to Swirlies- Street (M)
+  Fuzzy: Spare K1 to Spare K1
+  Fuzzy: Rainbow Rope Arch 1 (R) to Rainbow Rope Arch 1 (R)
+    But the DMX Address does not match! 999/129 != -1/-1
+  Fuzzy: Rainbow Rope Arch 2 (O) to Rainbow Rope Arch 2 (O)
+    But the DMX Address does not match! 999/130 != -1/-1
+  Fuzzy: Rainbow Rope Arch 3 (Y) to Rainbow Rope Arch 3 (Y)
+    But the DMX Address does not match! 999/131 != -1/-1
+  Fuzzy: Rainbow Rope Arch 4 (G) to Rainbow Rope Arch 4 (G)
+    But the DMX Address does not match! 999/132 != -1/-1
+  Fuzzy: Rainbow Rope Arch 5 (B) to Rainbow Rope Arch 5 (B)
+    But the DMX Address does not match! 999/133 != -1/-1
+  Fuzzy: Rainbow Rope Arch 6 (V) to Rainbow Rope Arch 6 (V)
+    But the DMX Address does not match! 999/134 != -1/-1
+  Fuzzy: Yellow Snow (Y) to Yellow Snow (Y)
+    But the DMX Address does not match! 999/142 != -1/-1
+
+[Managed Channels with NO LOR Match]
+  NoMatch: Star of Bethlehem (W)
+
+[LOR Channels with NO Managed Match]
+  NoMatch: BeatWizard
+  NoMatch: Verses
+  NoMatch: Chorus
+  NoMatch: Vocals
+
+
+[Exact Matches to Viz Channels or Groups]
+  Exact: Tree- Tomato A1.1 (L} (R) to Tree- Tomato A1.1 (L} (R)
+  Exact: Tree- Tomato A1.2 (L} (G) to Tree- Tomato A1.2 (L} (G)
+  Exact: Tree- Tomato B1.1 {L} (V) to Tree- Tomato B1.1 {L} (V)
+  Exact: Tree- Tinsel 1 {L} (R) to Tree- Tinsel 1 {L} (R)
+  Exact: UFOs 2 {CT} (RGB) to UFOs 2 {CT} (RGB)
+  Exact: Festivus Pole Flood (R) to Festivus Pole Flood (R)
+  Exact: Bushes 5.1 {R} (R) to Bushes 5.1 {R} (R)
+  Exact: Swirlies- Oak (RGB) to Swirlies- Oak (RGB)
+
+[Fuzzy Matches to Viz Channels or Groups]
+  Fuzzy: Tree- Tomato A1.3 (L} (B) to Tree- Tomato A1.3 (L} (B)
+  Fuzzy: Tree- Tomato A1.4 {L} (W) to Tree- Tomato A1.4 {L} (W)
+  Fuzzy: Tree- Tomato A2.1 (R) to Tree- Tomato A2.1 (R)
+  Fuzzy: Tree- Tomato A2.2 (G) to Tree- Tomato A2.2 (G)
+  Fuzzy: Tree- Tomato A2.3 (B) to Tree- Tomato A2.3 (B)
+  Fuzzy: Tree- Tomato A2.4 (W) to Tree- Tomato A2.4 (W)
+  Fuzzy: Tree- Tomato A3.1 (R) to Tree- Tomato A3.1 (R)
+  Fuzzy: Tree- Tomato A3.2 (G) to Tree- Tomato A3.2 (G)
+  Fuzzy: Tree- Tomato A3.3 (B) to Tree- Tomato A3.3 (B)
+  Fuzzy: Tree- Tomato A3.4 (W) to Tree- Tomato A3.4 (W)
+  Fuzzy: Tree- Tomato A4.1 {CL} (R) to Tree- Tomato A4.1 {CL} (R)
+  Fuzzy: Tree- Tomato A4.2 {CL} (G) to Tree- Tomato A4.2 {CL} (G)
+  Fuzzy: Tree- Tomato A4.3 {CL} (B) to Tree- Tomato A4.3 {CL} (B)
+  Fuzzy: Tree- Tomato A4.4 {CL} (W) to Tree- Tomato A4.4 {CL} (W)
+  Fuzzy: Tree- Tomato A5.1 {CR} (R) to Tree- Tomato A5.1 {CR} (R)
+  Fuzzy: Tree- Tomato A5.2 {CR} (G) to Tree- Tomato A5.2 {CR} (G)
+  Fuzzy: Tree- Tomato A5.3 {CR} (B) to Tree- Tomato A5.3 {CR} (B)
+  Fuzzy: Tree- Tomato A5.4 {CR} (W) to Tree- Tomato A5.4 {CR} (W)
+  Fuzzy: Tree- Tomato A6.1 (R) to Tree- Tomato A6.1 (R)
+  Fuzzy: Tree- Tomato A6.2 (G) to Tree- Tomato A6.2 (G)
+  Fuzzy: Tree- Tomato A6.3 (B) to Tree- Tomato A6.3 (B)
+  Fuzzy: Tree- Tomato A6.4 (W) to Tree- Tomato A6.4 (W)
+  Fuzzy: Tree- Tomato A7.1 (R) to Tree- Tomato A7.1 (R)
+  Fuzzy: Tree- Tomato A7.2 (G) to Tree- Tomato A7.2 (G)
+  Fuzzy: Tree- Tomato A7.3 (B) to Tree- Tomato A7.3 (B)
+  Fuzzy: Tree- Tomato A7.4 (W) to Tree- Tomato A7.4 (W)
+  Fuzzy: Tree- Tomato A8.1 {R} (R) to Tree- Tomato A8.1 {R} (R)
+  Fuzzy: Tree- Tomato A8.2 {R} (G) to Tree- Tomato A8.2 {R} (G)
+  Fuzzy: Tree- Tomato A8.3 {R} (B) to Tree- Tomato A8.3 {R} (B)
+  Fuzzy: Tree- Tomato A8.4 {R} (W) to Tree- Tomato A8.4 {R} (W)
+  Fuzzy: Tree- Tomato B1.2 {L} (W) to Tree- Tomato B1.2 {L} (W)
+  Fuzzy: Tree- Tomato B2.1 (V) to Tree- Tomato B2.1 (V)
+  Fuzzy: Tree- Tomato B2.2 (W) to Tree- Tomato B2.2 (W)
+  Fuzzy: Tree- Tomato B3.1 (V) to Tree- Tomato B3.1 (V)
+  Fuzzy: Tree- Tomato B3.2 (W) to Tree- Tomato B3.2 (W)
+  Fuzzy: Tree- Tomato B4.1 {CL} (V) to Tree- Tomato B4.1 {CL} (V)
+  Fuzzy: Tree- Tomato B4.2 {CL} (W) to Tree- Tomato B4.2 {CL} (W)
+  Fuzzy: Tree- Tomato B5.1 {CR} (V) to Tree- Tomato B5.1 {CR} (V)
+  Fuzzy: Tree- Tomato B5.2 {CR} (W) to Tree- Tomato B5.2 {CR} (W)
+  Fuzzy: Tree- Tomato B6.1 (V) to Tree- Tomato B6.1 (V)
+  Fuzzy: Tree- Tomato B6.2 (W) to Tree- Tomato B6.2 (W)
+  Fuzzy: Tree- Tomato B7.1 (V) to Tree- Tomato B7.1 (V)
+  Fuzzy: Tree- Tomato B7.2 (W) to Tree- Tomato B7.2 (W)
+  Fuzzy: Tree- Tomato B8.1 {R} (V) to Tree- Tomato B8.1 {R} (V)
+  Fuzzy: Tree- Tomato B8.2 {R} (W) to Tree- Tomato B8.2 {R} (W)
+  Fuzzy: Tree- Spiral 1 {L} (WR) to Tree- Spiral 1 {L} (W)
+  Fuzzy: Tree- Spiral 2 {F} (WG) to Tree- Spiral 2 {F} (W)
+  Fuzzy: Tree- Spiral 3 {R} (WB) to Tree- Spiral 3 {R} (W)
+  Fuzzy: Tree- Spiral 4 {B} (WV) to Tree- Spiral 4 {B} (G)
+  Fuzzy: Tree- Big 1 (M) to Tree- Big 1 (M)
+  Fuzzy: Trees- Rainbow (ROYGBV) to Tree- Spiral 3 {R} (W)
+  Fuzzy: Tree- Tinsel 2 {R} (R) to Tree- Tinsel 2 {R} (R)
+  Fuzzy: Tree- Small {L} (B) to Tree- Small {L} (B)
+  Fuzzy: Trees- Willow and Palm (GW) to Tree- Tomato B5.1 {CR} (V)
+  Fuzzy: Strobes- on Trees (W) to Streetlight Laser (R)
+  Fuzzy: Presents (M) to Presents (M)
+  Fuzzy: Candy Canes 1 (R) to Candy Canes 1 (R)
+  Fuzzy: Candy Canes 2 (G) to Candy Canes 2 (G)
+  Fuzzy: Candy Canes 3 (R) to Candy Canes 3 (R)
+  Fuzzy: Candy Canes 4 (G) to Candy Canes 4 (G)
+  Fuzzy: Bushes 1 {S} Rainbow (ROGBV) to Bushes 1 {S} Rainbow 1 (ROGBV)
+  Fuzzy: Bushes 2.1 {L} (M) to Bushes 2.1 {L} (M)
+  Fuzzy: Bushes 2.2 {L} (W) to Bushes 2.2 {L} (W)
+  Fuzzy: Bushes 2.3 {L} Low (O) to Bushes 2.3 {L} Low (O)
+  Fuzzy: Coexist Flag (MRGB) to Peace Sign (RGB)
+  Fuzzy: Strobes- Bushes + House (W) to Swirlies- Manger Stars (RWB)
+  Fuzzy: Strobes- 5mm Bushes (W) to Singers- Snow Globe (Ww)
+  Fuzzy: UFOs 1 {L} (RGB) to UFOs 1 {L} (RGB)
+  Fuzzy: Laser- Streetlight (R) to Laser- Street (RG)
+  Fuzzy: Snowman (W) to Snow Lake (W)
+  Fuzzy: Peace Sign (RGB) to Peace Sign (RGB)
+  Fuzzy: Menorah (B) to Menorah (B)
+  Fuzzy: Bushes 3.1 {C} (R) to Bushes 3.1 {C} (R)
+  Fuzzy: Bushes 3.2 {C} (G) to Bushes 3.2 {C} (G)
+  Fuzzy: Bushes 3.3 {C} (B) to Bushes 3.3 {C} (B)
+  Fuzzy: Bushes 3.4 {C} (W) to Bushes 3.4 {C} (Ww)
+  Fuzzy: Bushes 3.5 {C} 5mm Strobes (W) to Bushes 1 {S} Rainbow 1 (ROGBV)
+  Fuzzy: Lasers- House (RGB) to Swirlies- Pine (GO)
+  Fuzzy: Swirlies- Snowflakes (WB) to Swirlies- Snowflakes (WB)
+  Fuzzy: Snowfall Projectors (WB) to Singers- Snow Globe (Ww)
+  Fuzzy: Countdown Timer (B) to Countdown Timer (B)
+  Fuzzy: Yule Log (O) to Yule Log (O)
+  Fuzzy: Mailboxes (O) to Mailboxes (O)
+  Fuzzy: Lamp Posts (Y) to Lamp Posts (Y)
+  Fuzzy: Festivus Pole Flood (G) to Festivus Pole Flood (G)
+  Fuzzy: Festivus Pole Flood (B) to Festivus Pole Flood (B)
+  Fuzzy: Manger Flood 1 {L} (R) to Manger Flood {L} (R)
+  Fuzzy: Manger Flood 1 {L} (G) to Manger Flood {L} (G)
+  Fuzzy: Manger Flood 1 {L} (B) to Manger Flood {L} (B)
+  Fuzzy: Manger Flood 2 {R} (R) to Manger Flood {R} (R)
+  Fuzzy: Manger Flood 2 {R} (G) to Manger Flood {R} (G)
+  Fuzzy: Manger Flood 2 {R} (B) to Manger Flood {R} (B)
+  Fuzzy: Flood 4 (R) to Menorah (B)
+  Fuzzy: Roof Ridgeline 1 {L} (R) to Roof Ridgeline {L} (R)
+  Fuzzy: Roof Ridgeline 1 {L} (G) to Roof Ridgeline {L} (G)
+  Fuzzy: Roof Ridgeline 1 {L} (B) to Roof Ridgeline {L} (B)
+  Fuzzy: Roof Ridgeline 2 {R} (R) to Roof Ridgeline {R} (R)
+  Fuzzy: Roof Ridgeline 2 {R} (G) to Roof Ridgeline {R} (G)
+  Fuzzy: Roof Ridgeline 2 {R} (B) to Roof Ridgeline {R} (B)
+  Fuzzy: Rotating Beacons {L} (RGBO) to Manger Flood {R} (RGB)
+  Fuzzy: Rotating Beacons {R} (RGBO) to Manger Flood {L} (RGB)
+  Fuzzy: Garage Window 2 Dancer (W) to Swirlies- Candy Canes (RG)
+  Fuzzy: Garage Window 3 Prancer (W) to Rainbow Rope Arch 4 (G)
+  Fuzzy: Garage Window 5 Comet (W) to Singer- Snowman {M} (W)
+  Fuzzy: Meteors 1 (W) to Snow Lake (W)
+  Fuzzy: Meteors 2 (W) to Lamp Posts (Y)
+  Fuzzy: Meteors 3 (B) to Eaves Chase 3 (B)
+  Fuzzy: Meteors 4 (M) to Mailboxes (O)
+  Fuzzy: Eaves Chase 1 (R) to Eaves Chase 1 (R)
+  Fuzzy: Eaves Chase 2 (G) to Eaves Chase 2 (G)
+  Fuzzy: Eaves Chase 3 (B) to Eaves Chase 3 (B)
+  Fuzzy: Eaves Chase 4 (W) to Eaves Chase 4 (W)
+  Fuzzy: Bushes 4.1 {D} (Pink) to Bushes 4.1 {D} (Pink)
+  Fuzzy: Bushes 4.2 {D} (W) to Bushes 4.2 {D} (W)
+  Fuzzy: Big Nick Inside (W) to Security Lights (W)
+  Fuzzy: Swirlies- Big Nick Fire (RO) to Singers- Carolers Flood (RGB)
+  Fuzzy: Candy Cane Swirlies (RG) to Rainbow Rope Arch 4 (G)
+  Fuzzy: UFOs 3 {R} (RGB) to UFOs 3 {R} (RGB)
+  Fuzzy: Snow Lake (W) to Snowfall Motor
+  Fuzzy: Disco Balls (M) to Disco Balls (M)
+  Fuzzy: Wreath Leaves (G) to Wreath Leaves (G)
+  Fuzzy: Wreath Berries (R) to Wreath Berries (R)
+  Fuzzy: Bushes 5.2 {R} (G) to Bushes 5.2 {R} (G)
+  Fuzzy: Bushes 5.3 {R} (B) to Bushes 5.3 {R} (B)
+  Fuzzy: Bushes 5.4 {R} (W) to Bushes 5.4 {R} (W)
+  Fuzzy: Bushes 5.5 {R} (V) to Bushes 5.5 {R} (V)
+  Fuzzy: Bushes 5.6 {R} (M) to Bushes 5.6 {R} (M)
+  Fuzzy: Laser- Driveway (RG) to Laser- Driveway (RG)
+  Fuzzy: Laser- Street (RG) to Laser- Street (RG)
+  Fuzzy: Swirlies- Driveway (RGB) to Swirlies- Driveway (RGB)
+  Fuzzy: Swirlies- Pine (GO) to Swirlies- Pine (GO)
+  Fuzzy: Swirlies- Manger Stars (RWB) to Swirlies- Manger Stars (RWB)
+  Fuzzy: Swirlies- Street (M) to Swirlies- Street (M)
+  Fuzzy: Rainbow Rope Arch 1 (R) to Rainbow Rope Arch 1 (R)
+  Fuzzy: Rainbow Rope Arch 2 (O) to Rainbow Rope Arch 2 (O)
+  Fuzzy: Rainbow Rope Arch 3 (Y) to Rainbow Rope Arch 3 (Y)
+  Fuzzy: Rainbow Rope Arch 4 (G) to Rainbow Rope Arch 5 (B)
+  Fuzzy: Rainbow Rope Arch 5 (B) to Rainbow Rope Arch 5 (B)
+  Fuzzy: Rainbow Rope Arch 6 (V) to Rainbow Rope Arch 6 (V)
+  Fuzzy: Star of Bethlehem (W) to Star of Bethlehem (W)
+  Fuzzy: Tree- Big 2 (M) to Tree- Big 2 (M)
+  Fuzzy: Yellow Snow (Y) to Yellow Snow (Y)
+
+[Managed Channels with NO Viz Channel or Group Match]
+  NoMatch: Spare D5
+  NoMatch: Lamp Post Directions (O)
+  NoMatch: Penguins
+  NoMatch: Flying Spaghetti Monster (W)
+  NoMatch: Spare E8
+  NoMatch: Spare E9
+  NoMatch: Spare E10
+  NoMatch: Spare F1
+  NoMatch: Flood 4 (G)
+  NoMatch: Flood 4 (B)
+  NoMatch: Spare 12 Volt G19
+  NoMatch: Spare 12 Volt G20
+  NoMatch: Spare 12 Volt G21
+  NoMatch: Spare 12 Volt G22
+  NoMatch: Spare 12 Volt G23
+  NoMatch: Spare 12 Volt G24
+  NoMatch: Spare 12 Volt G25
+  NoMatch: Garage Window 1 Dasher {L} (W)
+  NoMatch: Garage Window 4 Vixen (W)
+  NoMatch: Garage Window 6 Cupid (W)
+  NoMatch: Garage Window 7 Donner (W)
+  NoMatch: Garage Window 8 Blitzen {R} (W)
+  NoMatch: Spare 5 Volt H13
+  NoMatch: Spare 5 Volt H14
+  NoMatch: Spare 5 Volt H15
+  NoMatch: Spare 5 Volt H16
+  NoMatch: Spare 5 Volt H17
+  NoMatch: Spare 5 Volt H18
+  NoMatch: Spare 5 Volt H19
+  NoMatch: Spare 5 Volt H20
+  NoMatch: Spare 5 Volt H21
+  NoMatch: Spare 5 Volt H22
+  NoMatch: Spare 5 Volt H23
+  NoMatch: Spare 5 Volt H24
+  NoMatch: Strobes- Right Bushes + Trees (W)
+  NoMatch: Spare A16
+  NoMatch: BAD TRIAC! Controller F Output 1
+  NoMatch: Nativity Characters
+  NoMatch: Spare J11
+  NoMatch: Spare K1
+
+[Viz Channels and Groups with NO Managed Match]
+  NoMatch Channel: Disco Balls (M)
+  NoMatch Channel: Eaves Chase 4 (W)
+  NoMatch Channel: Master Power Low
+  NoMatch Channel: Master Power High
+  NoMatch Channel: Tree- Tomato A3.1 (R)
+  NoMatch Channel: Tree- Tomato A7.2 (G)
+  NoMatch Channel: Tree- Tomato A2.3 (B)
+  NoMatch Channel: Peace Sign (RGB)
+  NoMatch Channel: Streetlight Laser (R)
+  NoMatch Channel: Candy Canes 4 (G)
+  NoMatch Channel: Bushes 3.4 {C} (Ww)
+  NoMatch Channel: Tree- Tomato A5.2 {CR} (G)
+  NoMatch Channel: Candy Canes 4 (G)
+  NoMatch Channel: Singer- Snowman (W)
+  NoMatch Channel: Singer- Snowman (W)
+  NoMatch Channel: Singer- Snowman (W)
+  NoMatch Channel: UFOs 2 {CT} (RGB)
+  NoMatch Channel: Bushes 3.3 {C} (B)
+  NoMatch Channel: Tree- Tinsel 1 {L} (R)
+  NoMatch Channel: Tree- Tinsel 2 {R} (R)
+  NoMatch Channel: Tree- Tomato B1.1 {L} (V)
+  NoMatch Channel: Tree- Tomato B4.1 {CL} (V)
+  NoMatch Channel: Tree- Tomato B6.1 (V)
+  NoMatch Channel: Tree- Tomato B7.1 (V)
+  NoMatch Channel: Tree- Tomato B8.1 {R} (V)
+  NoMatch Channel: Tree- Tomato B1.2 {L} (W)
+  NoMatch Channel: Tree- Tomato B4.2 {CL} (W)
+  NoMatch Channel: Tree- Tomato B7.2 (W)
+  NoMatch Channel: Tree- Tomato B8.2 {R} (W)
+  NoMatch Channel: Tree- Tomato A1.2 (L} (G)
+  NoMatch Channel: Tree- Tomato A3.2 (G)
+  NoMatch Channel: Tree- Tomato A4.2 {CL} (G)
+  NoMatch Channel: Candy Canes 4 (G)
+  NoMatch Channel: Candy Canes 4 (G)
+  NoMatch Channel: Tree- Tomato A5.3 {CR} (B)
+  NoMatch Channel: Tree- Tomato A2.1 (R)
+  NoMatch Channel: Tree- Tomato A4.1 {CL} (R)
+  NoMatch Channel: Tree- Tomato A6.1 (R)
+  NoMatch Channel: Tree- Tomato A8.1 {R} (R)
+  NoMatch Channel: Tree- Tomato A3.3 (B)
+  NoMatch Channel: Snowfall Spots (W)
+  NoMatch Channel: Singers- Penguins
+  NoMatch Channel: Bushes 2.2 {L} (W)
+  NoMatch Channel: Bushes 2.1 {L} (M)
+  NoMatch Channel: Tree- Spiral 2 {F} (W)
+  NoMatch Channel: Tree- Spiral 1 {L} (W)
+  NoMatch Channel: Tree- Tomato A8.4 {R} (W)
+  NoMatch Channel: Tree- Tomato A3.4 (W)
+  NoMatch Channel: Tree- Tomato A5.4 {CR} (W)
+  NoMatch Channel: UFOs 1 {L} (RGB)
+  NoMatch Channel: Bushes 1 {S} Rainbow 1 (ROGBV)
+  NoMatch Channel: Tree- Spiral 4 {B} (G)
+  NoMatch Channel: Bushes 1 {S} Rainbow 1 (ROGBV)
+  NoMatch Channel: Candy Canes 3 (R)
+  NoMatch Channel: Candy Canes 3 (R)
+  NoMatch Channel: Bushes 1 {S} Rainbow 1 (ROGBV)
+  NoMatch Channel: Candy Canes 3 (R)
+  NoMatch Channel: Candy Canes 2 (G)
+  NoMatch Channel: Candy Canes 2 (G)
+  NoMatch Channel: Candy Canes 2 (G)
+  NoMatch Channel: Candy Canes 2 (G)
+  NoMatch Channel: Candy Canes 3 (R)
+  NoMatch Channel: Candy Canes 2 (G)
+  NoMatch Channel: Candy Canes 1 (R)
+  NoMatch Channel: Candy Canes 1 (R)
+  NoMatch Channel: Candy Canes 1 (R)
+  NoMatch Channel: Candy Canes 1 (R)
+  NoMatch Channel: Candy Canes 1 (R)
+  NoMatch Channel: Bushes 5.2 {R} (B)
+  NoMatch Channel: Singers- Carolers Flood (G)
+  NoMatch Channel: Singers- Carolers Flood (R)
+  NoMatch Channel: Bushes 5.3 {R} (G)
+  NoMatch Channel: Singers- Carolers Flood (B)
+  NoMatch Group: Candy Canes 1 (R)
+  NoMatch Group: Candy Canes 2 (G)
+  NoMatch Group: Candy Canes 3 (R)
+  NoMatch Group: Candy Canes 4 (G)
+  NoMatch Group: Bushes 1 {S} Rainbow (ROGBV)
+  NoMatch Group: Trees- Spiral {L} (WWWG)
+  NoMatch Group: Tomato Trees [L2.1-16]
+  NoMatch Group: Disco Balls [L1.14]
+  NoMatch Group: Eaves Chase (RGBW)
+  NoMatch Group: Rainbow Rope Arch (ROYGBV)
+  NoMatch Group: Bushes 2 {L} (MWO)
+  NoMatch Group: Bushes 5.{R} (RGBWVM)
+  NoMatch Group: Bushes 3 {C} (RGBWw)
+  NoMatch Group: Peace Sign (RGB)
+  NoMatch Group: Singer- Snowman (W)
+  NoMatch Group: Roof Ridgeline {L} [U1.45-47  C.13-15] (RGB)
+  NoMatch Group: Tomato Trees A
+  NoMatch Group: Tomato Trees B
+  NoMatch Group: Roof Ridgeline {R} [U1.48-50  C.16-18] (RGB)
+  NoMatch Group: Bushes 4 {D} (PinkW)
+  NoMatch DrOb: Bushes 3.2 {C} (G)
+  NoMatch DrOb: Bushes 3.1 {C} (R)
+  NoMatch DrOb: Bushes 5.6 {R} (M)
+  NoMatch DrOb: Eaves Chase 1 (R)
+  NoMatch DrOb: Eaves Chase 2 (G)
+  NoMatch DrOb: Bushes 1.5 {S} Rainbow (V)
+  NoMatch DrOb: Swirlies- Street (M)
+  NoMatch DrOb: Disco Balls {L} (M)
+  NoMatch DrOb: Disco Balls {R} (M)
+  NoMatch DrOb: Bushes 5.5 {R} (V)
+  NoMatch DrOb: UFOs 3 {R} (RGB)
+  NoMatch DrOb: Tree- Tomato A1.4 {L} (W)
+  NoMatch DrOb: Tree- Tomato A2.4 (W)
+  NoMatch DrOb: Tree- Tomato A4.4 {CL} (W)
+  NoMatch DrOb: Tree- Tomato A6.4 (W)
+  NoMatch DrOb: Tree- Tomato A7.4 (W)
+  NoMatch DrOb: Tree- Tomato A1.3 (L} (B)
+  NoMatch DrOb: Tree- Tomato A7.3 (B)
+  NoMatch DrOb: Master Power Low
+  NoMatch DrOb: Master Power High
+  NoMatch DrOb: Security Lights (W)
+  NoMatch DrOb: Bushes 4.1 {D} (Pink)
+  NoMatch DrOb: Snowfall Spots (W)
+  NoMatch DrOb: Singers- Penguins
+  NoMatch DrOb: Presents (M)
+  NoMatch DrOb: Bushes 2.3 {L} Low (O)
+  NoMatch DrOb: Tree- Big 1 (M)
+  NoMatch DrOb: Bushes 1.1 {S} Rainbow (R)
+  NoMatch DrOb: Bushes 1.2 {S} Rainbow (O)
+  NoMatch DrOb: Bushes 1.3 {S} Rainbow (G)
+  NoMatch DrOb: Bushes 1.4 {S} Rainbow (B)
+  NoMatch DrOb: Candy Canes 1.1 (R)
+  NoMatch DrOb: Candy Canes 1.2 (R)
+  NoMatch DrOb: Candy Canes 1.3 (R)
+  NoMatch DrOb: Candy Canes 1.4 (R)
+  NoMatch DrOb: Candy Canes 1.5 (R)
+  NoMatch DrOb: Candy Canes 1.6 (R)
+  NoMatch DrOb: Candy Canes 2.1 (G)
+  NoMatch DrOb: Candy Canes 2.2 (G)
+  NoMatch DrOb: Candy Canes 2.3 (G)
+  NoMatch DrOb: Candy Canes 2.4 (G)
+  NoMatch DrOb: Candy Canes 2.5 (G)
+  NoMatch DrOb: Candy Canes 2.6 (G)
+  NoMatch DrOb: Candy Canes 3.1 (R)
+  NoMatch DrOb: Candy Canes 3.2 (R)
+  NoMatch DrOb: Candy Canes 3.3 (R)
+  NoMatch DrOb: Candy Canes 3.4 (R)
+  NoMatch DrOb: Candy Canes 3.5 (R)
+  NoMatch DrOb: Candy Canes 4.1 (G)
+  NoMatch DrOb: Candy Canes 4.2 (G)
+  NoMatch DrOb: Candy Canes 4.3 (G)
+  NoMatch DrOb: Candy Canes 4.4 (G)
+  NoMatch DrOb: Candy Canes 4.5 (G)
+  NoMatch DrOb: Laser- Driveway (RG)
+  NoMatch DrOb: Swirlies- Oak (RGB)
+  NoMatch DrOb: Rainbow Rope Arch 1 (R)
+  NoMatch DrOb: Rainbow Rope Arch 2 (O)
+  NoMatch DrOb: Rainbow Rope Arch 3 (Y)
+  NoMatch DrOb: Rainbow Rope Arch 6 (V)
+  NoMatch DrOb: Star of Bethlehem (W)
+  NoMatch DrOb: Swirlies- Snowflakes (WB)
+  NoMatch DrOb: Countdown Timer (B)
+  NoMatch DrOb: Festivus Pole Flood (RGB)
+  NoMatch DrOb: Bushes 5.4 {R} (W)
+  NoMatch DrOb: Wreath Leaves (G)
+  NoMatch DrOb: Wreath Berries (R)
+  NoMatch DrOb: Bushes 4.2 {D} (W)
+  NoMatch DrOb: Yule Log (O)
+  NoMatch DrOb: Peace Sign (R)
+  NoMatch DrOb: Peace Sign (B)
+  NoMatch DrOb: Peace Sign (G)
+  NoMatch DrOb: Tree- Big 2 (M)
+  NoMatch DrOb: Tree- Small {L} (B)
+  NoMatch DrOb: Tree- Tomato A8.3 {R} (B)
+  NoMatch DrOb: Tree- Tomato A6.3 (B)
+  NoMatch DrOb: Tree- Tomato A4.3 {CL} (B)
+  NoMatch DrOb: Tree- Tomato A7.1 (R)
+  NoMatch DrOb: Tree- Tomato A5.1 {CR} (R)
+  NoMatch DrOb: Tree- Tomato A8.2 {R} (G)
+  NoMatch DrOb: Tree- Tomato A6.2 (G)
+  NoMatch DrOb: Tree- Tomato A2.2 (G)
+  NoMatch DrOb: Tree- Tomato B6.2 (W)
+  NoMatch DrOb: Tree- Tomato B5.2 {CR} (W)
+  NoMatch DrOb: Tree- Tomato B3.2 (W)
+  NoMatch DrOb: Tree- Tomato B2.2 (W)
+  NoMatch DrOb: Tree- Tomato B3.1 (V)
+  NoMatch DrOb: Tree- Tomato B2.1 (V)
+  NoMatch DrOb: Bushes 5.1 {R} (R)
+  NoMatch DrOb: Singer- Snowman {T} (W)
+  NoMatch DrOb: Singer- Snowman {B} (W)
+  NoMatch DrOb: Snowfall Motor
+  NoMatch DrOb: Mailbox {Real} (O)
+  NoMatch DrOb: Mailbox {Wicker} (O)
+  NoMatch DrOb: Swirlies- Candy Canes (RG)
+  NoMatch DrOb: Swirlies- Driveway (RGB)
+  NoMatch DrOb: Roof Ridgeline {L} (RGB)
+  NoMatch DrOb: Roof Ridgeline {R} (RGB)
+  NoMatch DrOb: Yellow Snow (Y)
+
+
+[Exact Matches to xLights Models or Groups]
+  Exact: Tree- Tomato A1.1 (L} (R) to Tree- Tomato A1.1 (L} (R)
+  Exact: Tree- Tomato A1.2 (L} (G) to Tree- Tomato A1.2 (L} (G)
+  Exact: Tree- Tomato A1.3 (L} (B) to Tree- Tomato A1.3 (L} (B)
+  Exact: Tree- Tomato A1.4 {L} (W) to Tree- Tomato A1.4 {L} (W)
+  Exact: Tree- Tomato A2.1 (R) to Tree- Tomato A2.1 (R)
+  Exact: Tree- Tomato A2.2 (G) to Tree- Tomato A2.2 (G)
+  Exact: Tree- Tomato A2.3 (B) to Tree- Tomato A2.3 (B)
+  Exact: Tree- Tomato A2.4 (W) to Tree- Tomato A2.4 (W)
+  Exact: Tree- Tomato A3.1 (R) to Tree- Tomato A3.1 (R)
+  Exact: Tree- Tomato A3.2 (G) to Tree- Tomato A3.2 (G)
+  Exact: Tree- Tomato A3.3 (B) to Tree- Tomato A3.3 (B)
+  Exact: Tree- Tomato A3.4 (W) to Tree- Tomato A3.4 (W)
+  Exact: Tree- Tomato A4.1 {CL} (R) to Tree- Tomato A4.1 {CL} (R)
+  Exact: Tree- Tomato A4.2 {CL} (G) to Tree- Tomato A4.2 {CL} (G)
+  Exact: Tree- Tomato A4.3 {CL} (B) to Tree- Tomato A4.3 {CL} (B)
+  Exact: Tree- Tomato A4.4 {CL} (W) to Tree- Tomato A4.4 {CL} (W)
+  Exact: Tree- Tomato A5.1 {CR} (R) to Tree- Tomato A5.1 {CR} (R)
+  Exact: Tree- Tomato A5.2 {CR} (G) to Tree- Tomato A5.2 {CR} (G)
+  Exact: Tree- Tomato A5.3 {CR} (B) to Tree- Tomato A5.3 {CR} (B)
+  Exact: Tree- Tomato A5.4 {CR} (W) to Tree- Tomato A5.4 {CR} (W)
+  Exact: Tree- Tomato A6.1 (R) to Tree- Tomato A6.1 (R)
+  Exact: Tree- Tomato A6.2 (G) to Tree- Tomato A6.2 (G)
+  Exact: Tree- Tomato A6.3 (B) to Tree- Tomato A6.3 (B)
+  Exact: Tree- Tomato A6.4 (W) to Tree- Tomato A6.4 (W)
+  Exact: Tree- Tomato A7.1 (R) to Tree- Tomato A7.1 (R)
+  Exact: Tree- Tomato A7.2 (G) to Tree- Tomato A7.2 (G)
+  Exact: Tree- Tomato A7.3 (B) to Tree- Tomato A7.3 (B)
+  Exact: Tree- Tomato A7.4 (W) to Tree- Tomato A7.4 (W)
+  Exact: Tree- Tomato A8.1 {R} (R) to Tree- Tomato A8.1 {R} (R)
+  Exact: Tree- Tomato A8.2 {R} (G) to Tree- Tomato A8.2 {R} (G)
+  Exact: Tree- Tomato A8.3 {R} (B) to Tree- Tomato A8.3 {R} (B)
+  Exact: Tree- Tomato A8.4 {R} (W) to Tree- Tomato A8.4 {R} (W)
+  Exact: Tree- Tomato B1.1 {L} (V) to Tree- Tomato B1.1 {L} (V)
+  Exact: Tree- Tomato B1.2 {L} (W) to Tree- Tomato B1.2 {L} (W)
+  Exact: Tree- Tomato B2.1 (V) to Tree- Tomato B2.1 (V)
+  Exact: Tree- Tomato B2.2 (W) to Tree- Tomato B2.2 (W)
+  Exact: Tree- Tomato B3.1 (V) to Tree- Tomato B3.1 (V)
+  Exact: Tree- Tomato B3.2 (W) to Tree- Tomato B3.2 (W)
+  Exact: Tree- Tomato B4.1 {CL} (V) to Tree- Tomato B4.1 {CL} (V)
+  Exact: Tree- Tomato B4.2 {CL} (W) to Tree- Tomato B4.2 {CL} (W)
+  Exact: Tree- Tomato B5.1 {CR} (V) to Tree- Tomato B5.1 {CR} (V)
+  Exact: Tree- Tomato B5.2 {CR} (W) to Tree- Tomato B5.2 {CR} (W)
+  Exact: Tree- Tomato B6.1 (V) to Tree- Tomato B6.1 (V)
+  Exact: Tree- Tomato B6.2 (W) to Tree- Tomato B6.2 (W)
+  Exact: Tree- Tomato B7.1 (V) to Tree- Tomato B7.1 (V)
+  Exact: Tree- Tomato B7.2 (W) to Tree- Tomato B7.2 (W)
+  Exact: Tree- Tomato B8.1 {R} (V) to Tree- Tomato B8.1 {R} (V)
+  Exact: Tree- Tomato B8.2 {R} (W) to Tree- Tomato B8.2 {R} (W)
+  Exact: Trees- Rainbow (ROYGBV) to Trees- Rainbow (ROYGBV)
+  Exact: Candy Canes 1 (R) to Candy Canes 1 (R)
+  Exact: Candy Canes 2 (G) to Candy Canes 2 (G)
+  Exact: Candy Canes 3 (R) to Candy Canes 3 (R)
+  Exact: Candy Canes 4 (G) to Candy Canes 4 (G)
+  Exact: UFOs 1 {L} (RGB) to UFOs 1 {L} (RGB)
+  Exact: UFOs 2 {CT} (RGB) to UFOs 2 {CT} (RGB)
+  Exact: Yule Log (O) to Yule Log (O)
+  Exact: UFOs 3 {R} (RGB) to UFOs 3 {R} (RGB)
+  Exact: Wreath Leaves (G) to Wreath Leaves (G)
+
+[Fuzzy Matches to xLights Models or Groups]
+  Fuzzy: Flying Spaghetti Monster (W) to Flying Spaghetti Monster (W)
+  Fuzzy: Flood 4 (B) to Menorah (B)
+  Fuzzy: Garage Window 6 Cupid (W) to Trees- Tinsel Group (R)
+  Fuzzy: Garage Window 7 Donner (W) to Snow Lake with Deer (W)
+  Fuzzy: Strobes- Right Bushes + Trees (W) to Trees- Tomato A Groups Group (RGBW)
+  Fuzzy: Nativity Characters to Nativity Group
+    But the xLights Channel Address does not match! 218 != 134
+
+[Managed Channels with NO xLights Match]
+  NoMatch Channel: Tree- Spiral 1 {L} (WR)
+  NoMatch Channel: Tree- Spiral 2 {F} (WG)
+  NoMatch Channel: Tree- Spiral 3 {R} (WB)
+  NoMatch Channel: Tree- Spiral 4 {B} (WV)
+  NoMatch Channel: Tree- Big 1 (M)
+  NoMatch Channel: Tree- Tinsel 1 {L} (R)
+  NoMatch Channel: Tree- Tinsel 2 {R} (R)
+  NoMatch Channel: Tree- Small {L} (B)
+  NoMatch Channel: Trees- Willow and Palm (GW)
+  NoMatch Channel: Strobes- on Trees (W)
+  NoMatch Channel: Presents (M)
+  NoMatch Channel: Bushes 1 {S} Rainbow (ROGBV)
+  NoMatch Channel: Bushes 2.1 {L} (M)
+  NoMatch Channel: Bushes 2.2 {L} (W)
+  NoMatch Channel: Bushes 2.3 {L} Low (O)
+  NoMatch Channel: Spare D5
+  NoMatch Channel: Coexist Flag (MRGB)
+  NoMatch Channel: Lamp Post Directions (O)
+  NoMatch Channel: Penguins
+  NoMatch Channel: Strobes- Bushes + House (W)
+  NoMatch Channel: Strobes- 5mm Bushes (W)
+  NoMatch Channel: Laser- Streetlight (R)
+  NoMatch Channel: Snowman (W)
+  NoMatch Channel: Peace Sign (RGB)
+  NoMatch Channel: Menorah (B)
+  NoMatch Channel: Bushes 3.1 {C} (R)
+  NoMatch Channel: Bushes 3.2 {C} (G)
+  NoMatch Channel: Bushes 3.3 {C} (B)
+  NoMatch Channel: Bushes 3.4 {C} (W)
+  NoMatch Channel: Bushes 3.5 {C} 5mm Strobes (W)
+  NoMatch Channel: Lasers- House (RGB)
+  NoMatch Channel: Spare E8
+  NoMatch Channel: Spare E9
+  NoMatch Channel: Spare E10
+  NoMatch Channel: Swirlies- Snowflakes (WB)
+  NoMatch Channel: Snowfall Projectors (WB)
+  NoMatch Channel: Countdown Timer (B)
+  NoMatch Channel: Mailboxes (O)
+  NoMatch Channel: Lamp Posts (Y)
+  NoMatch Channel: Spare F1
+  NoMatch Channel: Festivus Pole Flood (R)
+  NoMatch Channel: Festivus Pole Flood (G)
+  NoMatch Channel: Festivus Pole Flood (B)
+  NoMatch Channel: Manger Flood 1 {L} (R)
+  NoMatch Channel: Manger Flood 1 {L} (G)
+  NoMatch Channel: Manger Flood 1 {L} (B)
+  NoMatch Channel: Manger Flood 2 {R} (R)
+  NoMatch Channel: Manger Flood 2 {R} (G)
+  NoMatch Channel: Manger Flood 2 {R} (B)
+  NoMatch Channel: Flood 4 (R)
+  NoMatch Channel: Flood 4 (G)
+  NoMatch Channel: Roof Ridgeline 1 {L} (R)
+  NoMatch Channel: Roof Ridgeline 1 {L} (G)
+  NoMatch Channel: Roof Ridgeline 1 {L} (B)
+  NoMatch Channel: Roof Ridgeline 2 {R} (R)
+  NoMatch Channel: Roof Ridgeline 2 {R} (G)
+  NoMatch Channel: Roof Ridgeline 2 {R} (B)
+  NoMatch Channel: Spare 12 Volt G19
+  NoMatch Channel: Spare 12 Volt G20
+  NoMatch Channel: Spare 12 Volt G21
+  NoMatch Channel: Spare 12 Volt G22
+  NoMatch Channel: Spare 12 Volt G23
+  NoMatch Channel: Spare 12 Volt G24
+  NoMatch Channel: Spare 12 Volt G25
+  NoMatch Channel: Rotating Beacons {L} (RGBO)
+  NoMatch Channel: Rotating Beacons {R} (RGBO)
+  NoMatch Channel: Garage Window 1 Dasher {L} (W)
+  NoMatch Channel: Garage Window 2 Dancer (W)
+  NoMatch Channel: Garage Window 3 Prancer (W)
+  NoMatch Channel: Garage Window 4 Vixen (W)
+  NoMatch Channel: Garage Window 5 Comet (W)
+  NoMatch Channel: Garage Window 8 Blitzen {R} (W)
+  NoMatch Channel: Meteors 1 (W)
+  NoMatch Channel: Meteors 2 (W)
+  NoMatch Channel: Meteors 3 (B)
+  NoMatch Channel: Meteors 4 (M)
+  NoMatch Channel: Spare 5 Volt H13
+  NoMatch Channel: Spare 5 Volt H14
+  NoMatch Channel: Spare 5 Volt H15
+  NoMatch Channel: Spare 5 Volt H16
+  NoMatch Channel: Spare 5 Volt H17
+  NoMatch Channel: Spare 5 Volt H18
+  NoMatch Channel: Spare 5 Volt H19
+  NoMatch Channel: Spare 5 Volt H20
+  NoMatch Channel: Spare 5 Volt H21
+  NoMatch Channel: Spare 5 Volt H22
+  NoMatch Channel: Spare 5 Volt H23
+  NoMatch Channel: Spare 5 Volt H24
+  NoMatch Channel: Eaves Chase 1 (R)
+  NoMatch Channel: Eaves Chase 2 (G)
+  NoMatch Channel: Eaves Chase 3 (B)
+  NoMatch Channel: Eaves Chase 4 (W)
+  NoMatch Channel: Bushes 4.1 {D} (Pink)
+  NoMatch Channel: Bushes 4.2 {D} (W)
+  NoMatch Channel: Big Nick Inside (W)
+  NoMatch Channel: Swirlies- Big Nick Fire (RO)
+  NoMatch Channel: Candy Cane Swirlies (RG)
+  NoMatch Channel: Snow Lake (W)
+  NoMatch Channel: Disco Balls (M)
+  NoMatch Channel: Wreath Berries (R)
+  NoMatch Channel: Spare A16
+  NoMatch Channel: BAD TRIAC! Controller F Output 1
+  NoMatch Channel: Bushes 5.1 {R} (R)
+  NoMatch Channel: Bushes 5.2 {R} (G)
+  NoMatch Channel: Bushes 5.3 {R} (B)
+  NoMatch Channel: Bushes 5.4 {R} (W)
+  NoMatch Channel: Bushes 5.5 {R} (V)
+  NoMatch Channel: Bushes 5.6 {R} (M)
+  NoMatch Channel: Laser- Driveway (RG)
+  NoMatch Channel: Laser- Street (RG)
+  NoMatch Channel: Spare J11
+  NoMatch Channel: Swirlies- Driveway (RGB)
+  NoMatch Channel: Swirlies- Pine (GO)
+  NoMatch Channel: Swirlies- Oak (RGB)
+  NoMatch Channel: Swirlies- Manger Stars (RWB)
+  NoMatch Channel: Swirlies- Street (M)
+  NoMatch Channel: Spare K1
+  NoMatch Channel: Rainbow Rope Arch 1 (R)
+  NoMatch Channel: Rainbow Rope Arch 2 (O)
+  NoMatch Channel: Rainbow Rope Arch 3 (Y)
+  NoMatch Channel: Rainbow Rope Arch 4 (G)
+  NoMatch Channel: Rainbow Rope Arch 5 (B)
+  NoMatch Channel: Rainbow Rope Arch 6 (V)
+  NoMatch Channel: Star of Bethlehem (W)
+  NoMatch Channel: Tree- Big 2 (M)
+  NoMatch Channel: Yellow Snow (Y)
+
+[xLights Models and Groups with NO Managed Match]
+  NoMatch Group: aGround
+  NoMatch Group: Big Nick Internal (W)
+  NoMatch Group: Bushes 1 {S} Rainbow 1 (R)
+  NoMatch Group: Bushes 1 {S} Rainbow 2 (O)
+  NoMatch Group: Bushes 1 {S} Rainbow 3 (G)
+  NoMatch Group: Bushes 1 {S} Rainbow 4 (B)
+  NoMatch Group: Bushes 1 {S} Rainbow 5 (V)
+  NoMatch Group: Bushes 2.1 {L} (M)
+  NoMatch Group: Bushes 2.2 {L} (W)
+  NoMatch Group: Bushes 2.3 5mm Strobes {L} (W)
+  NoMatch Group: Bushes 2.4 {L} Low (O)
+  NoMatch Group: Bushes 3.1 {C} (R)
+  NoMatch Group: Bushes 3.2 {C} (G)
+  NoMatch Group: Bushes 3.3 {C} (B)
+  NoMatch Group: Bushes 3.4 {C} (W)
+  NoMatch Group: Bushes 3.5 {C} 5mm Strobes (W)
+  NoMatch Group: Bushes 4.1 {D} (Pink)
+  NoMatch Group: Bushes 4.2 {D} (W)
+  NoMatch Group: Bushes 5.1 {R} (R)
+  NoMatch Group: Bushes 5.2 {R} (G)
+  NoMatch Group: Bushes 5.3 {R} (B)
+  NoMatch Group: Bushes 5.4 {R} (W)
+  NoMatch Group: Bushes 5.5 {R} (V)
+  NoMatch Group: Bushes 5.6 {R} (M)
+  NoMatch Group: CandyCane01-R1
+  NoMatch Group: CandyCane02-G2
+  NoMatch Group: CandyCane03-R3
+  NoMatch Group: CandyCane04-G4
+  NoMatch Group: CandyCane05-R1
+  NoMatch Group: CandyCane06-G2
+  NoMatch Group: CandyCane07-R3
+  NoMatch Group: CandyCane08-G4
+  NoMatch Group: CandyCane09-R1
+  NoMatch Group: CandyCane10-G2
+  NoMatch Group: CandyCane11-R3
+  NoMatch Group: CandyCane12-G4
+  NoMatch Group: CandyCane13-R1
+  NoMatch Group: CandyCane14-G2
+  NoMatch Group: CandyCane15-R3
+  NoMatch Group: CandyCane16-G4
+  NoMatch Group: CandyCane17-R1
+  NoMatch Group: CandyCane18-G2
+  NoMatch Group: CandyCane19-R3
+  NoMatch Group: CandyCane20-G4
+  NoMatch Group: CandyCane21-R1
+  NoMatch Group: CandyCane22-G2
+  NoMatch Group: CandyCaneTest
+  NoMatch Group: Countdown Timer (B)
+  NoMatch Group: Deer 1
+  NoMatch Group: Deer 2
+  NoMatch Group: Disco Balls {L} (M)
+  NoMatch Group: Disco Balls {R} (M)
+  NoMatch Group: Eaves Chase 1 (R)
+  NoMatch Group: Eaves Chase 2 (G)
+  NoMatch Group: Eaves Chase 3 (B)
+  NoMatch Group: Eaves Chase 4 (W)
+  NoMatch Group: Festivus Pole Flood (RGB)
+  NoMatch Group: HappyHolidays
+  NoMatch Group: Lamp Posts (Y)
+  NoMatch Group: Laser- Spare
+  NoMatch Group: Laser- Streetlight (R)
+  NoMatch Group: Lasers- Driveway (RGB)
+  NoMatch Group: Lasers- House Front
+  NoMatch Group: Lasers- Street (RG)
+  NoMatch Group: Mailbox- Graphic
+  NoMatch Group: Mailbox- MiniWicker (W)
+  NoMatch Group: Mailbox- Real (O)
+  NoMatch Group: Manger Flood 1 {L} (RGB)
+  NoMatch Group: Manger Flood 2 {R} (RGB)
+  NoMatch Group: Master Power One
+  NoMatch Group: Master Power Two
+  NoMatch Group: Menorah Bulb 0 (B) {C}
+  NoMatch Group: Menorah Bulbs 1-4 (B) {R}
+  NoMatch Group: Menorah Bulbs 5-8 (B) {L}
+  NoMatch Group: Nativity Blowmolds (W)
+  NoMatch Group: Peace Sign (RGB)
+  NoMatch Group: Presents (M)
+  NoMatch Group: Rainbow Rope Arch 1 (R)
+  NoMatch Group: Rainbow Rope Arch 2 (O)
+  NoMatch Group: Rainbow Rope Arch 3 (Y)
+  NoMatch Group: Rainbow Rope Arch 4 (G)
+  NoMatch Group: Rainbow Rope Arch 5 (B)
+  NoMatch Group: Rainbow Rope Arch 6 (V)
+  NoMatch Group: Roof Ridgeline 1 {L} (RGB)
+  NoMatch Group: Roof Ridgeline 2 {R} (RGB)
+  NoMatch Group: Santa in the Window
+  NoMatch Group: Security Lights (W)
+  NoMatch Group: Singer- Snowman (New) (W)
+  NoMatch Group: Singers- Penguins
+  NoMatch Group: Snow Lake (W)
+  NoMatch Group: Snowfall Spots (W)
+  NoMatch Group: Swirlies- Big Nick Fire (RO)
+  NoMatch Group: Swirlies- Candy Canes (RG)
+  NoMatch Group: Swirlies- Driveway (RGB)
+  NoMatch Group: Swirlies- Manger Stars (RWB)
+  NoMatch Group: Swirlies- Oak (RGB)
+  NoMatch Group: Swirlies- Pine (GO)
+  NoMatch Group: Swirlies- Snowflakes {L} (WB)
+  NoMatch Group: Swirlies- Snowflakes {R} (WB)
+  NoMatch Group: Swirlies- Street (M)
+  NoMatch Group: Tree- Big AC
+  NoMatch Group: Tree- Small {L} (B)
+  NoMatch Group: Tree- Spiral 1 {L} (W)
+  NoMatch Group: Tree- Spiral 2 {F} (W)
+  NoMatch Group: Tree- Spiral 3 {R} (W)
+  NoMatch Group: Tree- Spiral 4 {B} (G)
+  NoMatch Group: Tree- Tinsel 1 {L} (R)
+  NoMatch Group: Tree- Tinsel 2 {R} (R)
+  NoMatch Group: Trees- Palm and Willow (GW)
+  NoMatch Group: UFOs 1 {L}{L} (RGB)
+  NoMatch Group: UFOs 1 {L}{R} (RGB)
+  NoMatch Group: UFOs 2 {CT}{L} (RGB)
+  NoMatch Group: UFOs 2 {CT}{R} (RGB)
+  NoMatch Group: UFOs 3 {R}{L} (RGB)
+  NoMatch Group: UFOs 3 {R}{R} (RGB)
+  NoMatch Group: Wreath 1 Leaves (G)
+  NoMatch Group: Wreath 2 Berries (R)
+  NoMatch Group: Wreath 3 Leaves (G)
+  NoMatch Group: Wreath 4 Leaves (G)
+  NoMatch Group: Wreath 5 Berries (R)
+  NoMatch Group: Wreath 6 Leaves (G)
+  NoMatch Group: Yellow Snow (Y)
+  NoMatch Group: Yule Log Candles (O)
+  NoMatch Group: z_BAD TRIAC [L1.09]
+  NoMatch Group: z_Spare [L3.09]
+  NoMatch Group: z_Spare [L3.10
+  NoMatch Group: z_Spare [L6.07]
+  NoMatch Group: z_Spare [L6.08]
+  NoMatch Group: z_Spare [L6.09]
+  NoMatch Group: z_Spare [L6.10]
+  NoMatch:  EVERYTHING Group
+  NoMatch: !All Lights
+  NoMatch: All Lights
+  NoMatch: Bushes
+  NoMatch: Bushes 1 {S} Rainbow (ROGBV)
+  NoMatch: Bushes 2 {L} Group (MWO)
+  NoMatch: Bushes 3 {C} Group (RGBWw)
+  NoMatch: Bushes 4 {D} Group (PW)
+  NoMatch: Bushes 5 {R} ALL Group (RGBWVM)
+  NoMatch: Bushes 5 {R} RGBW Group (RGBW)
+  NoMatch: Bushes Groups Group
+  NoMatch: Bushes White Group
+  NoMatch: By Controller
+  NoMatch: By Controller
+  NoMatch: Candy Canes All Individual Group
+  NoMatch: Candy Canes Seq Group (RGRG)
+  NoMatch: Cane &amp; Pixel Fence
+  NoMatch: Canes + Fence Group
+  NoMatch: Color  Groups Group
+  NoMatch: Color BLU Group
+  NoMatch: Color GRN Group
+  NoMatch: Color MULTI Group
+  NoMatch: Color ORN Group
+  NoMatch: Color RED Group
+  NoMatch: Color VIO Group
+  NoMatch: Color WHT Group
+  NoMatch: Default Perspective
+  NoMatch: Disco Balls (M)
+  NoMatch: EavePixels Group
+  NoMatch: Eaves
+  NoMatch: Eaves Chase Group (RGBW)
+  NoMatch: Election
+  NoMatch: Fence Pixels Group
+  NoMatch: Forest
+  NoMatch: Forest (all individual) Group
+  NoMatch: Forest Groups Group
+  NoMatch: Good view of everything
+  NoMatch: House Front Groups Group
+  NoMatch: Lasers Group
+  NoMatch: Mailboxes (Y)
+  NoMatch: Main View of Yard Left
+  NoMatch: Master Power Group
+  NoMatch: Nice front view of yard and house
+  NoMatch: Oddballs Group
+  NoMatch: Odddballs
+  NoMatch: Pixels
+  NoMatch: Pixels Eaves Group
+  NoMatch: Pixels Fence Group
+  NoMatch: Pixels View Group
+  NoMatch: Rainbow Arch Group (RYOGBV)
+  NoMatch: Religious Group
+  NoMatch: Ridgeline Group
+  NoMatch: Singers
+  NoMatch: Singers
+  NoMatch: Snow Group
+  NoMatch: Snowflakes Boscoyo 16
+  NoMatch: Song Parts
+  NoMatch: Swirlies Group (M)
+  NoMatch: Swirlies- Snowflakes (WB)
+  NoMatch: Swirly-Twirly
+  NoMatch: Tree- Tomato A1 Group (RGBW)
+  NoMatch: Tree- Tomato A2 Group (RGBW)
+  NoMatch: Tree- Tomato A3 Group (RGBW)
+  NoMatch: Tree- Tomato A4 Group (RGBW)
+  NoMatch: Tree- Tomato A5 Group (RGBW)
+  NoMatch: Tree- Tomato A6 Group (RGBW)
+  NoMatch: Tree- Tomato A7 Group (RGBW)
+  NoMatch: Tree- Tomato A8 Group (RGBW)
+  NoMatch: Tree- Tomato B1 Group (VW)
+  NoMatch: Tree- Tomato B2 Group (VW)
+  NoMatch: Tree- Tomato B3 Group (VW)
+  NoMatch: Tree- Tomato B4 Group (VW)
+  NoMatch: Tree- Tomato B5 Group (VW)
+  NoMatch: Tree- Tomato B6 Group (VW)
+  NoMatch: Tree- Tomato B7 Group (VW)
+  NoMatch: Tree- Tomato B8 Group (VW)
+  NoMatch: Trees- ALL Groups Group
+  NoMatch: Trees- Others Group
+  NoMatch: Trees- Spiral Group (WWWG)
+  NoMatch: Trees- Tomato A 1 Red Group (R)
+  NoMatch: Trees- Tomato A 2 Grn Group (G)
+  NoMatch: Trees- Tomato A 3 Blu Group (B)
+  NoMatch: Trees- Tomato A 4 Wht Group (W)
+  NoMatch: Trees- Tomato A+B Wht Indiv Group
+  NoMatch: Trees- Tomato All Groups Group (RGBWVW)
+  NoMatch: Trees- Tomato B Groups Group (VW)
+  NoMatch: Trees- Tomato B Vio Group
+  NoMatch: Trees- Tomato B Wht Group
+  NoMatch: Trees- Tomato by Color Group
+  NoMatch: UFOs All Group (RGB)
+  NoMatch: Wiz 1
+  NoMatch: Wiz1
+  NoMatch: Wreath (GR)
+  NoMatch: Wreath Berries (R)
+  NoMatch: xChinese27 In Garage 12Volts [U02.001-027]
+  NoMatch: xLOR#1 In Garage [USB L1.01-16]
+  NoMatch: xLOR#2 Trees- Tomato Row B [U01.033-048]
+  NoMatch: xLOR#3 Behind the SnowGlobe [U01.049-064]
+  NoMatch: xLOR#4 Behind the Left Bushes [U01.065-080]
+  NoMatch: xLOR#5 Behind the Center Bushes [U01.081-096]
+  NoMatch: xLOR#7 Behind the Right Bushes [U02.065-080]
+  NoMatch: xRenard- Trees- Tomato Row A [U01.001-032]
+
+* ( End of Report ) *

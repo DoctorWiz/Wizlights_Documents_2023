@@ -1,0 +1,4 @@
+Universe#,Name,Location,Comment,Active,Size Limit,xLights Start#,Connection
+1,Left Universe 1,Leftt Yard,,True,128,1,AlphaPix16 DMXout 1
+2,Right Universe 2,Garage and Right Yard,,True,128,129,AlphaPix16 DMXout 2
+999,Universe 999 - Retired or Offline,Retired or Offline,,True,510,9901,None
